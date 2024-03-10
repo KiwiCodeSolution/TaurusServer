@@ -4,7 +4,7 @@ const Product_schema = new Schema(
 	{
 		category: { type: String, required: true },
 		name: { type: String, required: true, unique: true },
-		purchase_price: { type: Number, required: true },
+		purchase_price: { type: Number, required: false },
 		price: { type: Number, required: true },
 		unit: { type: String },
 		discount_price: { type: String },
@@ -13,7 +13,6 @@ const Product_schema = new Schema(
 		// img: { type: String, default: undefined, sparse: true },
 		available: { type: Boolean },
 		archived: { type: Boolean },
-		images: { type: Array, defult: [] },
 	},
 	{
 		versionKey: false,
