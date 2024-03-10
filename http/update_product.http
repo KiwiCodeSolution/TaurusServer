@@ -1,0 +1,17 @@
+PUT http://localhost:5000/product/65ed8bcd90da96ee3a9282fe HTTP/1.1
+Content-Type: application/json
+
+{
+            "category":"aarregrghf",
+            "name":"d",
+            "discount_price": 3,
+            "price":22,
+            "unit":"kg",
+            "available":false,
+            "description":"bla fsbla",
+            "favourite":true
+           
+}
+
+# PUT http://localhost:5000/product/id HTTP/1.1
+
