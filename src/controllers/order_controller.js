@@ -1,4 +1,4 @@
-const Order = require("../mongoDB/models/Order");
+const Order = require("../mongoDB/models/Orders");
 const { NotFound } = require("http-errors");
 
 module.exports.create_order = async (req, res) => {
@@ -39,4 +39,12 @@ module.exports.delete_order = async (req, res) => {
         throw new NotFound("order not found");
     }
     res.json({ message: 'Order deleted successfully' });
+};
+
+module.exports.get_order_by_id = async (req, res) => {
+    const order = await Order.findById(req.params.id).populate('products.product');
+    if (!order) {
+        throw new NotFound("Order not found");
+    }
+    res.json(order);
 };
