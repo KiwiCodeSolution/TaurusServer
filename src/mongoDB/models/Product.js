@@ -1,18 +1,19 @@
 const { Schema, model } = require("mongoose");
 
-const Product_schema = new Schema(
+const ProductSchema = new Schema(
 	{
-		category: { type: String, required: true },
+		topCategory: { type: String },
+		subCategory: { type: String },
+		weight: { type: String },
+		translation: { type: String },
+		category: { type: String },
 		name: { type: String, required: true, unique: true },
-		purchase_price: { type: Number, required: false },
 		price: { type: Number, required: true },
 		unit: { type: String },
 		discount_price: { type: String },
 		description: { type: String },
-		favourite: { type: Boolean },
-		// img: { type: String, default: undefined, sparse: true },
-		available: { type: Boolean },
-		archived: { type: Boolean },
+		favourite: { type: Boolean, default: true },
+		available: { type: Boolean, default: false },
 	},
 	{
 		versionKey: false,
@@ -20,4 +21,4 @@ const Product_schema = new Schema(
 	}
 );
 
-module.exports = model("Product", Product_schema);
+module.exports = model("Product", ProductSchema);
