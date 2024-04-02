@@ -34,7 +34,7 @@ module.exports.update_order = async (req, res) => {
 };
 
 module.exports.delete_order = async (req, res) => {
-    const order = await Order.findByIdAndRemove(req.params.id);
+    const order = await Order.findByIdAndDelete(req.params.id);
     if (!order) {
         throw new NotFound("order not found");
     }
