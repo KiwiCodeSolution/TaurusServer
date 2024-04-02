@@ -12,6 +12,7 @@ Content-Type: application/json
     "unit": "kg",
     "discount_price": "3333333333",
     "description": "bla fsbla",
+    
     "favourite": true,
     "available": false
 }

@@ -1,27 +1,15 @@
-POST http://localhost:5000/order HTTP/1.1
+POST http://localhost:5000/order/
 Content-Type: application/json
 
 {
-    "order_date": "2024-04-02T12:00:00.000Z",
-    "order_number": 123456, 
-    "customer_name": "J",
-    "phone_number": "23456789",
-    "delivery": [{
-        "address": "Main",
-        "deliveryTime": "09:00", 
-        "deliveryCost": 10.99 
-    }],
-    "total_amount": 99.99,
-    "archived": false, 
-    "status": "new", 
-    "products": [
-        {
-            "product": "64aa8a7a4bd990790be6db98",
-            "quantity": 20
-        },
-        {
-            "product": "64aa8a334bd990790be6db94",
-            "quantity": 14
-        }
-    ]
+    "order_date": "2024-04-04T15:00:00.000Z",
+    "delivery_type": "Доставка",
+    "foods": ["<product_id_1>", "<product_id_2>"],
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "1234567890",
+    "date": "2024-04-04",
+    "time": "12:00 PM",
+    "message": "No special requests",
+    "consent": true
 }

@@ -1,0 +1,15 @@
+PUT http://localhost:5000/reservations/660c52be092205d6d7f0a99d
+Content-Type: application/json
+
+{
+    "customerName": "zfzxvzxvczxczxczxczx",
+    "phoneNumber": "0987654321",
+    "email": "janesmith@example.com",
+    "date": "2024-04-05",
+    "time": "1:00 PM",
+    "numberOfPeople": 6,
+    "tableNumber": 5,
+    "specialRequests": "Vegetarian meal request",
+    "status": "confirmed",
+    "consentToProcessPersonalData": true
+}

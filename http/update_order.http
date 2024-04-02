@@ -1,25 +1,18 @@
-PUT http://localhost:5000/order/660b076f0da9126eec84e1a3 HTTP/1.1
+PUT http://localhost:5000/order/660b06cd0da9126eec84e19e
 Content-Type: application/json
 
 {
-    "order_date": "2023-07-08",
-    "customer_name": " вапвапmer",
-    "phone_number": "+987654321",
-    "delivery_address": "456  City",
-    "total_amount": 129.99,
-    "products": [
-        {
-            "product": "60e7018b4829d74a2c4d609c",
-            "quantity": 3
-        },
-        {
-            "product": "64a6e97dab987804bd4cd38a",
-            "quantity": 30
-        },
-        {
-            
-             "product": "64a9686b3c3ca99001da9d26",
-            "quantity": 30
-        }
-    ]
+    "order_date": "2023-07-09",
+    "delivery_type": "Доставка",
+    "foods": [
+        "64a6e97dab987804bd4cd38a",
+        "64a9686b3c3ca99001da9d26"
+    ],
+    "name": "Jane Smidddddddth",
+    "email": "janesmith@example.com",
+    "phone": "+123456789",
+    "date": "2023-07-09",
+    "time": "1:00 PM",
+    "message": "Vegetarian meal request",
+    "consent": true
 }

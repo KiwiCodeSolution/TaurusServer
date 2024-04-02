@@ -1,0 +1,15 @@
+POST http://localhost:5000/reservations/
+Content-Type: application/json
+
+{
+    "customerName": "John Doe",
+    "phoneNumber": "1234567890",
+    "email": "johndoe@example.com",
+    "date": "2024-04-04",
+    "time": "12:00 PM",
+    "numberOfPeople": 4,
+    "tableNumber": 3,
+    "specialRequests": "No special requests",
+    "status": "pending",
+    "consentToProcessPersonalData": true
+}

@@ -1,0 +1,10 @@
+POST http://localhost:5000/delivery/ HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "lohn dou",
+    "address": "Ukraine Biberivka 666",
+    "deliveryDate": "2024-04-04T12:00:00.000Z",
+    "estimatedDeliveryTime": "2 hours",
+    "status": "Pending"
+}

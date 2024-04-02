@@ -1,0 +1,10 @@
+POST http://localhost:5000/feedback/
+Content-Type: application/json
+
+{
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "1234567890",
+    "message": "This is a test feedback message.",
+    "consent": true
+}
