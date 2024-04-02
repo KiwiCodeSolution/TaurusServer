@@ -13,6 +13,6 @@ const reservationSchema = new mongoose.Schema({
 	consentToProcessPersonalData: { type: Boolean, required: true } // нове поле
 }, { timestamps: true });
 
-const Reservation = mongoose.model('Reservation', reservationSchema);
+module.exports = mongoose.model('Reservation', reservationSchema);
 
-module.exports = Reservation;
+

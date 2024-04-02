@@ -1,10 +1,19 @@
-const promotionSchema = new mongoose.Schema({
-	name: { type: String, required: true },
-	description: { type: String },
-	discount: { type: Number, required: true },
-	startDate: { type: Date, required: true },
-	endDate: { type: Date, required: true }
-});
+const { Schema, model } = require("mongoose");
 
-const Promotion = mongoose.model('Promotion', promotionSchema);
-module.exports = Promotion;
+const PromotionSchema = new Schema(
+	{
+		title: { type: String, required: true },
+		description: { type: String },
+		newPrice: { type: Number, required: true },
+		oldPrice: { type: Number, required: true },
+		label: { type: String },
+		image: { type: String },
+		isFeatured: { type: Boolean, default: false },
+		defaultImage: { type: String },
+	},
+	{ timestamps: true }
+);
+
+const PromotionModel = model("Promotion", PromotionSchema);
+
+module.exports = PromotionModel;
