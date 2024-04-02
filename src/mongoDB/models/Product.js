@@ -4,16 +4,18 @@ const ProductSchema = new Schema(
 	{
 		topCategory: { type: String },
 		subCategory: { type: String },
-		weight: { type: String },
-		translation: { type: String },
 		category: { type: String },
+		weight: { type: String },
 		name: { type: String, required: true, unique: true },
-		price: { type: Number, required: true },
-		unit: { type: String },
-		discount_price: { type: String },
+		englishName: { type: String },
 		description: { type: String },
+		price: { type: Number, required: true },
+		action: { type: String },
+		actionSection: { type: String },
+		deliveryMenu: { type: String },
 		favourite: { type: Boolean, default: true },
 		available: { type: Boolean, default: false },
+		delivery: { type: Schema.Types.ObjectId, ref: "Delivery" }
 	},
 	{
 		versionKey: false,

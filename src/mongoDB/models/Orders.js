@@ -1,6 +1,6 @@
 const { Schema, model } = require("mongoose");
 
-const Order_schema = new Schema({
+const OrderSchema = new Schema({
 	order_date: {
 		type: Date,
 		required: true,
@@ -10,27 +10,16 @@ const Order_schema = new Schema({
 			return now;
 		}
 	},
-	order_number: { type: Number, required: true, unique: true },
-	customer_name: { type: String, required: true },
-	phone_number: { type: String, required: true },
-	delivery: [{
-		address: { type: String, required: true },
-		deliveryTime: { type: String, required: true },
-		deliveryCost: { type: Number, required: true }
-	}],
-	total_amount: { type: Number, required: true },
-	archived: { type: Boolean },
-	status: { type: String }, // new | inProcess | sended
-	products: [
-		{
-			product: { type: Schema.Types.ObjectId, ref: 'Product', required: true },
-			quantity: { type: Number, required: true },
-		}
-	],
-},
-	{
-		versionKey: false,
-		timestamps: true
-	});
+	delivery_type: { type: String, enum: ["На месте", "Доставка"], required: true },
+	products: [{ type: Schema.Types.ObjectId, ref: 'Product', required: true }],
+	name: { type: String, required: true },
+	email: { type: String, required: true },
+	phone: { type: String, required: true },
+	date: { type: Date, required: true },
+	time: { type: String, required: true },
+	message: { type: String },
+	consent: { type: Boolean, required: true }
+});
 
-module.exports = model("Order", Order_schema);
+
+module.exports = model("Order", OrderSchema);
