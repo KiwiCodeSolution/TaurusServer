@@ -1,3 +1,4 @@
+
 const { Schema, model } = require("mongoose");
 
 const ProductSchema = new Schema(
@@ -15,7 +16,8 @@ const ProductSchema = new Schema(
 		deliveryMenu: { type: String },
 		favourite: { type: Boolean, default: true },
 		available: { type: Boolean, default: false },
-		delivery: { type: Schema.Types.ObjectId, ref: "Delivery" }
+		delivery: { type: Schema.Types.ObjectId, ref: "Delivery" },
+		quantity: { type: Number }
 	},
 	{
 		versionKey: false,
