@@ -1,1 +1,1 @@
-DELETE http://localhost:5000/reservations/<reservation_id>
+DELETE http://localhost:5000/reservations/6613988c04ba308b49da1502

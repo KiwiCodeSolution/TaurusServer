@@ -1,0 +1,13 @@
+PUT http://localhost:5000/promotions/661395bcdcf94e03ae173fff
+Content-Type: application/json
+
+{
+    "title": "Updated Sale",
+    "description": "Updated description for the sale",
+    "newPrice": 4444444444444440,
+    "oldPrice": 899990,
+    "label": "Updated Sale",
+    "image": "updated_sale.jpg",
+    "isFeatured": true,
+    "defaultImage": "default_promo_image.jpg"
+}

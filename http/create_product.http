@@ -2,12 +2,12 @@ POST http://localhost:5000/product/ HTTP/1.1
 Content-Type: application/json
 
 {
-    "topCategory": "exampleTopCategory",
-    "subCategory": "exampleSubCategory",
+    "topCategory": "exampывпывпgory",
+    "subCategory": "examplываываgory",
     "weight": "exampleWeight",
     "translation": "exampleTranslation",
-    "category": "aarregrghf",
-    "name": "pppppplobofog",
+    "category": "aarrfgegrghf",
+    "name": "pdf",
     "price": 22,
     "unit": "kg",
     "discount_price": "3333333333",

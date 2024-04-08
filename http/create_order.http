@@ -2,9 +2,10 @@ POST http://localhost:5000/order/
 Content-Type: application/json
 
 {
+    
     "order_date": "2024-04-04T15:00:00.000Z",
     "delivery_type": "Доставка",
-    "foods": ["<product_id_1>", "<product_id_2>"],
+    "products": [ "65ed8a3621ef3e04cff4abd0"],
     "name": "John Doe",
     "email": "johndoe@example.com",
     "phone": "1234567890",
@@ -13,3 +14,4 @@ Content-Type: application/json
     "message": "No special requests",
     "consent": true
 }
+

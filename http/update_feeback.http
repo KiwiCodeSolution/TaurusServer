@@ -1,0 +1,11 @@
+PUT http://localhost:5000/feedback/66138dd728d3e51252cf5ad7
+Content-Type: application/json
+
+{
+    "name": "Jane Sеепеепепепепmith",
+    "email": "janesmith@example.com",
+    "phone": "0987654321",
+    "message": "This is an updated feedback message",
+    "consent": true
+}
+

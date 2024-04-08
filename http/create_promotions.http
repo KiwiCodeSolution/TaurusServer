@@ -1,0 +1,13 @@
+POST http://localhost:5000/promotions/
+Content-Type: application/json
+
+{
+    "title": "Super Sale!",
+    "description": "Don't miss out on our super sale!",
+    "newPrice": 50,
+    "oldPrice": 100,
+    "label": "Sale",
+    "image": "super_sale.jpg",
+    "isFeatured": true,
+    "defaultImage": "default_promo_image.jpg"
+}

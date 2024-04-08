@@ -1,0 +1,12 @@
+PUT http://localhost:5000/sale/:id
+Content-Type: application/json
+
+{
+    "title": "Новое название акции",
+    "description": "Новое описание акции",
+    "newPrice": 120,
+    "oldPrice": 180,
+    "label": "Акция обновлена",
+    "image": "новая ссылка на изображение",
+    "isDefaultImage": false
+}
