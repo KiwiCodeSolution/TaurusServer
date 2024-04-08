@@ -14,6 +14,6 @@ const PromotionSchema = new Schema(
 	{ timestamps: true }
 );
 
-const PromotionModel = model("Promotion", PromotionSchema);
+module.exports = model("Promotion", PromotionSchema);
 
-module.exports = PromotionModel;
+
