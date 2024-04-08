@@ -1,6 +1,7 @@
 const { Schema, model } = require("mongoose");
 
 const OrderSchema = new Schema({
+	order_number: { type: Number, required: true, unique: true },
 	order_date: {
 		type: Date,
 		required: true,
@@ -20,6 +21,5 @@ const OrderSchema = new Schema({
 	message: { type: String },
 	consent: { type: Boolean, required: true }
 });
-
 
 module.exports = model("Order", OrderSchema);
