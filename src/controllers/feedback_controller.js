@@ -11,6 +11,7 @@ exports.createFeedback = async (req, res) => {
 		res.status(400).json({ message: error.message });
 	}
 };
+
 exports.getAllFeedbacks = async (req, res) => {
 	try {
 		const feedbacks = await FeedbackModel.find();
@@ -37,6 +38,23 @@ exports.deleteFeedbackById = async (req, res) => {
 	try {
 		await FeedbackModel.findByIdAndDelete(req.params.id);
 		res.status(204).json({ message: 'Feedback deleted successfully' });
+	} catch (error) {
+		res.status(500).json({ message: error.message });
+	}
+};
+
+exports.updateFeedbackById = async (req, res) => {
+	try {
+		const { name, email, phone, message, consent } = req.body;
+		const updatedFeedback = await FeedbackModel.findByIdAndUpdate(
+			req.params.id,
+			{ name, email, phone, message, consent },
+			{ new: true }
+		);
+		if (!updatedFeedback) {
+			throw new NotFound("Feedback not found");
+		}
+		res.status(200).json(updatedFeedback);
 	} catch (error) {
 		res.status(500).json({ message: error.message });
 	}
