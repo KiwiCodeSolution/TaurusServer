@@ -49,8 +49,9 @@ exports.deleteReservation = async (req, res) => {
 	try {
 		const { id } = req.params;
 		await Reservation.findByIdAndDelete(id);
-		res.status(204).send();
+		res.status(204).json({ message: 'Успешно удалено' });
 	} catch (error) {
 		res.status(500).json({ message: error.message });
 	}
 };
+
