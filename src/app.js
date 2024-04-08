@@ -6,6 +6,7 @@ const order_router = require('./routes/order_router')
 const delivey_router = require('./routes/delivery_router')
 const feedback_router = require('./routes/feedback_router')
 const reservations_router = require('./routes/reservation_router')
+const promotions_router = require('./routes/promotions_router')
 app.use(express.json());
 app.use("/auth", auth_router);
 app.use("/product", product_router);
@@ -13,7 +14,8 @@ app.use("/order", order_router);
 app.use("/delivery", delivey_router);
 app.use("/feedback", feedback_router);
 app.use("/reservations", reservations_router);
-
+app.use("/sale", reservations_router);
+app.use("/promotions", promotions_router);
 
 
 module.exports = app;
