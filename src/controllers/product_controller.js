@@ -24,6 +24,15 @@ module.exports.get_all_products = async (req, res) => {
   res.status(200).json(products);
 };
 
+module.exports.get_product_by_id = async (req, res) => {
+  const productId = req.params.id;
+  const product = await Product_model.findById(productId);
+  if (!product) {
+    throw new NotFound("Product not found");
+  }
+  res.json(product);
+};
+
 module.exports.update_product = async (req, res) => {
   const productId = req.params.id;
   const { body, files } = req;

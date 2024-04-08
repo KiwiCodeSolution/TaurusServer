@@ -13,7 +13,7 @@ const ProductSchema = new Schema(
 		price: { type: Number, required: true },
 		action: { type: String },
 		actionSection: { type: String },
-		deliveryMenu: { type: String },
+		// deliveryMenu: { type: String },
 		favourite: { type: Boolean, default: true },
 		available: { type: Boolean, default: false },
 		delivery: { type: Schema.Types.ObjectId, ref: "Delivery" },
