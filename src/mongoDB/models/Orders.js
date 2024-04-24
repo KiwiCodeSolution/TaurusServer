@@ -11,7 +11,7 @@ const OrderSchema = new Schema({
 			return now;
 		}
 	},
-	delivery_type: { type: String, enum: ["На месте", "Доставка"], required: true },
+	delivery_type: { type: String, enum: ["У ресторані", "Доставка"], required: true },
 	products: [{ type: Schema.Types.ObjectId, ref: 'Product', required: true }],
 	name: { type: String, required: true },
 	email: { type: String, required: true },
@@ -19,7 +19,9 @@ const OrderSchema = new Schema({
 	date: { type: Date, required: true },
 	time: { type: String, required: true },
 	message: { type: String },
-	consent: { type: Boolean, required: true }
+	consent: { type: Boolean, required: true },
+	total_cost: { type: Number, required: true }, // Добавлено поле общей стоимости
+	address: { type: String, required: false } // Добавлено поле адреса
 });
 
 module.exports = model("Order", OrderSchema);

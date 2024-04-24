@@ -17,7 +17,8 @@ const ProductSchema = new Schema(
 		favourite: { type: Boolean, default: true },
 		available: { type: Boolean, default: false },
 		delivery: { type: Schema.Types.ObjectId, ref: "Delivery" },
-		quantity: { type: Number }
+		quantity: { type: Number },
+
 	},
 	{
 		versionKey: false,
