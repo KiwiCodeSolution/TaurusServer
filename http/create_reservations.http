@@ -11,5 +11,6 @@ Content-Type: application/json
     "tableNumber": 3,
     "specialRequests": "No special requests",
     "status": "pending",
+    "message":"ghghghghghgh",
     "consentToProcessPersonalData": true
 }
