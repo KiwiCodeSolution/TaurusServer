@@ -42,10 +42,16 @@ module.exports.delete_order = async (req, res) => {
     res.json({ message: 'Order deleted successfully' });
 };
 
+
 module.exports.get_order_by_id = async (req, res) => {
-    const order = await Order.findById(req.params.id).populate('products.product');
-    if (!order) {
-        throw new NotFound("Order not found");
+    try {
+        const order = await Order.findById(req.params.id).populate('products');
+        if (!order) {
+            throw new NotFound("Order not found");
+        }
+        res.json(order);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: "Internal Server Error" });
     }
-    res.json(order);
 };
