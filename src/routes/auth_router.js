@@ -8,5 +8,7 @@ router.post("/register", ctrlWrapper(auth_controller.register));
 router.post("/login", ctrlWrapper(auth_controller.login));
 router.get("/logout", auth, ctrlWrapper(auth_controller.logout));
 router.get("/getCurrent", auth, ctrlWrapper(auth_controller.getCurrent));
-
+router.get("/all", ctrlWrapper(auth_controller.getAllUsers))
+router.put('/:id', ctrlWrapper(auth_controller.toggleUserActivation));
+router.post('/reset_password', (auth_controller.resetPassword));
 module.exports = router;
