@@ -9,6 +9,7 @@ const reservationSchema = new mongoose.Schema({
 	numberOfPeople: { type: Number, required: true },
 	tableNumber: { type: Number, required: true },
 	specialRequests: { type: String },
+	message: { type: String },
 	status: { type: String, enum: ['pending', 'confirmed', 'cancelled'], default: 'pending' },
 	consentToProcessPersonalData: { type: Boolean, required: true }
 }, { timestamps: true });
