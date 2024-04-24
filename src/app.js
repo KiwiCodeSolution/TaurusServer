@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+
 const auth_router = require("./routes/auth_router")
 const product_router = require("./routes/product_router");
 const order_router = require('./routes/order_router')
@@ -7,6 +8,7 @@ const delivey_router = require('./routes/delivery_router')
 const feedback_router = require('./routes/feedback_router')
 const reservations_router = require('./routes/reservation_router')
 const promotions_router = require('./routes/promotions_router')
+
 app.use(express.json());
 app.use("/auth", auth_router);
 app.use("/product", product_router);
@@ -17,5 +19,9 @@ app.use("/reservations", reservations_router);
 app.use("/sale", reservations_router);
 app.use("/promotions", promotions_router);
 
+
+app.use((req, res) => {
+	res.status(404).json({ message: "Route not found" });
+});
 
 module.exports = app;
