@@ -2,18 +2,20 @@ POST http://localhost:5000/order/
 Content-Type: application/json
 
 {
-    
     "order_date": "2024-04-04T15:00:00.000Z",
     "delivery_type": "Доставка",
-    "products": [ "6628f7fddfc1f4158df3333f","6628f7f7dfc1f4158df3333c","6628f7e7dfc1f4158df33335"  ],
+    "products": [
+        { "product": "6628f7fddfc1f4158df3333f", "quantity": 1 },
+        { "product": "6628f7f7dfc1f4158df3333c", "quantity": 2 },
+        { "product": "6628f7e7dfc1f4158df33335", "quantity": 1 }
+    ],
     "name": "John Doe",
     "email": "johndoe@example.com",
     "phone": "1234567890",
     "date": "2024-04-04",
     "time": "12:00 PM",
     "message": "No special requests",
-    "consent": true ,
-    "total_cost":123124,
-    "address":"qweebfhfndkdhfmfkf"
+    "consent": true,
+    "total_cost": 123124,
+    "address": "qweebfhfndkdhfmfkf"
 }
-
