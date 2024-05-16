@@ -1,18 +1,18 @@
-PUT http://localhost:5000/order/66138b40de477b497fef60a5
+PUT http://localhost:5000/order/6645ba12a7ba7cc3da6c624e
 Content-Type: application/json
 
 {
     "order_date": "2023-07-09",
     "delivery_type": "Доставка",
-    "foods": [
-        "64a6e97dab987804bd4cd38a",
-        "64a9686b3c3ca99001da9d26"
+    "products": [
+        { "product": "64a6e97dab987804bd4cd38a", "quantity": 1 },
+        { "product": "64a9686b3c3ca99001da9d26", "quantity": 2 }
     ],
     "name": "Jane Smidddddddth",
     "email": "janesmith@example.com",
     "phone": "+123456789",
     "date": "2023-07-09",
     "time": "1:00 PM",
-    "message": "Vegetarian meal request",
+    "message": "Запрос на вегетарианское блюдо",
     "consent": true
 }

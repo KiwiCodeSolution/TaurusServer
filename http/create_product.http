@@ -2,19 +2,20 @@ POST http://localhost:5000/product/ HTTP/1.1
 Content-Type: application/json
 
 {
-    "topCategory": "exampывпывпgory",
-    "subCategory": "examplываываgory",
+    "topCategory": "exampleTopCategory",
+    "subCategory": "exampleSubCategory",
+    "category": "exampleCategory",
     "weight": "exampleWeight",
-    "translation": "exampleTranslation",
-    "category": "aarrfgegrghf",
-    "name": "cbbcbcb",
+    "name": "fghj",
     "price": 22,
-    "unit": "kg",
-    "discount_price": "3333333333",
     "description": "bla fsbla",
-    
-    "favourite": true,
-    "available": false
+    "action": false,
+    "new": false,
+    "discount": false,
+    "archive": false,
+    "delivery": "6645b05965fcda1f94f1cf11", 
+    "displayInDeliveryMenu": false, 
+    "quantity": 1
 }
 
 # DELETE http://localhost:5000/product/id HTTP/1.1
@@ -22,3 +23,5 @@ Content-Type: application/json
 # для отправки запросов таким способом нужно установить разширение для vs code
 # REST Client for Visual Studio Code
 # Huachao Mao
+
+# "delivery" если не используется удалить строку !
