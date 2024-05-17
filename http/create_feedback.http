@@ -6,5 +6,7 @@ Content-Type: application/json
     "email": "johndoe@example.com",
     "phone": "1234567890",
     "message": "This is a test feedback message.",
-    "consent": true
+    "consent": true,
+    "status": "new", 
+    "archive": false 
 }

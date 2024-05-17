@@ -1,11 +1,13 @@
-PUT http://localhost:5000/feedback/66138dd728d3e51252cf5ad7
+PUT http://localhost:5000/feedback/6645b583639a31a4844aa4a8
 Content-Type: application/json
 
 {
-    "name": "Jane Sеепеепепепепmith",
+    "name": "Jane Smith",
     "email": "janesmith@example.com",
     "phone": "0987654321",
     "message": "This is an updated feedback message",
-    "consent": true
+    "consent": true,
+    "status": "progress", 
+    "archive": true 
 }
 

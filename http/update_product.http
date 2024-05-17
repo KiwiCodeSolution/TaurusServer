@@ -1,16 +1,21 @@
-PUT http://localhost:5000/product/661390663d3c29904aaa7ce9 HTTP/1.1
+PUT http://localhost:5000/product/6645b18165fcda1f94f1cf19
 Content-Type: application/json
 
 {
-            "category":"aarregrghf",
-            "name":"dfffffffffffffff",
-            "discount_price": 37777,
-            "price":22,
-            "unit":"kg",
-            "available":false,
-            "description":"bla fsbla",
-            "favourite":true
-           
+    "topCategory": "exampleTopCategory",
+    "subCategory": "exampleSubCategory",
+    "category": "aarregrghf",
+    "weight": "exampleWeight",
+    "name": "dfffffffffffffff",
+    "price": 22,
+    "description": "bla fsbla",
+    "action": false,
+    "new": false,
+    "discount": true,
+    "archive": false,
+    "displayInDeliveryMenu": false,
+    "hideInMenu": false,
+    "quantity": 1
 }
 
 # PUT http://localhost:5000/product/id HTTP/1.1

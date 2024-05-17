@@ -1,4 +1,3 @@
-
 const { Schema, model } = require("mongoose");
 
 const ProductSchema = new Schema(
@@ -11,14 +10,14 @@ const ProductSchema = new Schema(
 		englishName: { type: String },
 		description: { type: String },
 		price: { type: Number, required: true },
-		action: { type: String },
-		actionSection: { type: String },
-		// deliveryMenu: { type: String },
-		favourite: { type: Boolean, default: true },
-		available: { type: Boolean, default: false },
+		action: { type: Boolean, default: false },
+		new: { type: Boolean, default: false },
+		discount: { type: Boolean, default: false },
+		archive: { type: Boolean, default: false },
 		delivery: { type: Schema.Types.ObjectId, ref: "Delivery" },
+		displayInDeliveryMenu: { type: Boolean, default: true },
+		hideInMenu: { type: Boolean, default: false },
 		quantity: { type: Number },
-
 	},
 	{
 		versionKey: false,

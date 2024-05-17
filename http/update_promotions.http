@@ -1,4 +1,4 @@
-PUT http://localhost:5000/promotions/661395bcdcf94e03ae173fff
+PUT http://localhost:5000/promotions/6641ca01414c996d970fd276
 Content-Type: application/json
 
 {
@@ -9,5 +9,7 @@ Content-Type: application/json
     "label": "Updated Sale",
     "image": "updated_sale.jpg",
     "isFeatured": true,
-    "defaultImage": "default_promo_image.jpg"
+    "defaultImage": "default_promo_image.jpg",
+    "available": true,
+    "archive": false
 }

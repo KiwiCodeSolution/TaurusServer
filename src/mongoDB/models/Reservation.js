@@ -10,10 +10,9 @@ const reservationSchema = new mongoose.Schema({
 	tableNumber: { type: Number, required: true },
 	specialRequests: { type: String },
 	message: { type: String },
-	status: { type: String, enum: ['pending', 'confirmed', 'cancelled'], default: 'pending' },
-	consentToProcessPersonalData: { type: Boolean, required: true }
+	status: { type: String, enum: ['pending', 'confirmed', 'cancelled', 'progress'], default: 'pending' },
+	consentToProcessPersonalData: { type: Boolean, required: true },
+	archive: { type: Boolean, default: false } // Добавлено поле для архивации
 }, { timestamps: true });
 
 module.exports = mongoose.model('Reservation', reservationSchema);
-
-
