@@ -1,0 +1,2 @@
+PUT http://localhost:5000/auth/66712192874b84bb11fb96f5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjcxMjE5Mjg3NGI4NGJiMTFmYjk2ZjUiLCJpYXQiOjE3MTg2OTIzNjZ9.vkP6S69e-PbPXeATdQhBUCua3nltgpSqib7Xrlo8lYc
