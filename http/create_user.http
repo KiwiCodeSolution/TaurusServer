@@ -2,9 +2,9 @@ POST http://localhost:5000/auth/register HTTP/1.1
 Content-Type: application/json
 
 {
-   "email" : "qwegdoqne",
-   "username": "ledhha",
-   "password": "123b45",
-   "role":"admin"
+   "email" : "p@taurus",
+   "username": "yur",
+   "password": "123456",
+   "role":"user"
 }
 

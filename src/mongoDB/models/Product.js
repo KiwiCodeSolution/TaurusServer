@@ -18,6 +18,7 @@ const ProductSchema = new Schema(
 		displayInDeliveryMenu: { type: Boolean, default: true },
 		hideInMenu: { type: Boolean, default: false },
 		quantity: { type: Number },
+		available: { type: Boolean , default: true}
 	},
 	{
 		versionKey: false,

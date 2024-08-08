@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const fs = require('fs');
+// const fs = require('fs');
 const cors = require('cors');
 const multer = require("multer");
 
@@ -15,13 +15,13 @@ const upload_router = require("./routes/upload_router");
 app.use(cors());
 app.use(express.json());
 
-app.use("/uploads", upload_router);
-app.use("/auth", auth_router);
-app.use("/product", product_router);
-app.use("/order", order_router);
-app.use("/delivery", delivey_router);
-app.use("/feedback", feedback_router);
 app.use("/reservations", reservations_router);
+app.use("/feedback", feedback_router);
+app.use("/delivery", delivey_router);
+app.use("/order", order_router);
+app.use("/auth", auth_router);
+app.use("/uploads", upload_router);
+app.use("/product", product_router);
 app.use("/sale", reservations_router);
 app.use("/promotions", promotions_router);
 
@@ -32,7 +32,6 @@ app.use(async (err, req, res, next) => {
 	if (err instanceof multer.MulterError) {
 		err.status = 400;
 	}
-
 	const { status = 500, message = "Server error" } = err;
 	res.status(status).json({ message });
 });

@@ -34,7 +34,6 @@ module.exports.login = async (req, res) => {
     const token = jwt.sign({ userId: user._id }, process.env.SECRET_KEY);
     user.token = token;
     await user.save();
-
     res.json({ token });
 };
 module.exports.logout = async (req, res) => {
@@ -46,9 +45,11 @@ module.exports.logout = async (req, res) => {
 module.exports.getCurrent = async (req, res) => {
     res.json({
         message: `Current user - ${req.user.username}`,
-        userId: req.user._id,
+        username: req.user.username,
+        userid: req.user.id,
         role: req.user.role,
         token: req.user.token
+
     });
 };
 module.exports.getAllUsers = async (req, res) => {
@@ -83,7 +84,6 @@ module.exports.toggleUserActivation = async (req, res) => {
 
 module.exports.resetPassword = async (req, res) => {
     const { userId, newPassword } = req.body;
-
     try {
         const user = await Admin.findById(userId);
         if (!user) {
@@ -91,7 +91,6 @@ module.exports.resetPassword = async (req, res) => {
         }
         user.password = newPassword;
         await user.save();
-
         res.json({ message: "Password reset successfully" });
     } catch (error) {
         console.error(error);
