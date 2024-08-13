@@ -40,10 +40,10 @@ exports.getPromotionById = async (req, res) => {
 // Обновление акции по ID
 exports.updatePromotionById = async (req, res) => {
 	try {
-		const { title, description, newPrice, oldPrice, label, image, isFeatured, defaultImage } = req.body;
+		const { title, description, newPrice, oldPrice, label, image, isFeatured, defaultImage ,available,  archive} = req.body;
 		const updatedPromotion = await Promotion.findByIdAndUpdate(
 			req.params.id,
-			{ title, description, newPrice, oldPrice, label, image, isFeatured, defaultImage },
+			{ title, description, newPrice, oldPrice, label, image, isFeatured, defaultImage ,available,  archive},
 			{ new: true }
 		);
 		if (!updatedPromotion) {

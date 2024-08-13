@@ -1,0 +1,7584 @@
+[{
+  "_id": {
+    "$oid": "66b60e4ed516566941992036"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "200",
+  "name": "М’ясне асорті",
+  "englishName": "Variety of meat",
+  "description": "пепероні, салямі, прошутто, мисливські ковбаски",
+  "price": 290,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:40:46.902Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:40:46.902Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60e6ed51656694199203d"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "150",
+  "name": "асорті з сала",
+  "englishName": "Salo (lard), mustard, red onion and garlic",
+  "description": "різні види сала з гірчицею, з цибулею та часником",
+  "price": 160,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:41:18.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:41:18.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60e7ed516566941992042"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "50",
+  "name": "телячий язик відварений в ароматних спеціях",
+  "englishName": "Veal's tongue",
+  "description": "-",
+  "price": 125,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:41:34.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:41:34.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60e94d516566941992047"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "150",
+  "name": "тартар з відбірної телячої вирізки",
+  "englishName": "Veal's tartare",
+  "description": "-",
+  "price": 220,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:41:56.069Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:41:56.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60ea4d51656694199204c"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "50",
+  "name": "бастурма",
+  "englishName": "Basturma",
+  "description": "яловичина",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:42:12.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:42:12.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60ebad516566941992051"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "150/50",
+  "name": "Паштет з курячої печінки з ягідним конфі",
+  "englishName": "Chicken liver pate with berry jelly",
+  "description": "-",
+  "price": 190,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:42:34.407Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:42:34.407Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60ed4d516566941992056"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "200/50",
+  "name": "Сирне плато",
+  "englishName": "Variety of cheese with nuts and honey: blue cheese, Cheddar, goat cheese",
+  "description": "пармезан, дор блю, камамбер, козячий сир",
+  "price": 290,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:43:00.666Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:43:00.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60ee7d51656694199205b"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "50",
+  "name": "сьомга с/с",
+  "englishName": "Salted salmon",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:43:19.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:43:19.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60ef6d516566941992060"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "150",
+  "name": "тартар з тунця",
+  "englishName": "Tuna tartare",
+  "description": "-",
+  "price": 260,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:43:34.941Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:43:34.941Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60f19d516566941992065"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "150",
+  "name": "філе норвезького оселедця",
+  "englishName": "Fillet of salted herring",
+  "description": "-",
+  "price": 155,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:44:09.458Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:44:09.458Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60f31d51656694199206a"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "50",
+  "name": "масляна риба х/к",
+  "englishName": "Oily fish",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:44:33.007Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:44:33.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60f42d51656694199206f"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "200",
+  "name": "рієт зі скумбрії",
+  "englishName": "Salted mackerel",
+  "description": "-",
+  "price": 180,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:44:50.076Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:44:50.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60f53d516566941992074"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "330",
+  "name": "овочеве асорті",
+  "englishName": "Variety of vegetables",
+  "description": "-",
+  "price": 125,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:45:07.794Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:45:07.794Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60f63d516566941992079"
+  },
+  "topCategory": "основне меню",
+  "category": "холодні страви",
+  "weight": "100",
+  "name": "оливки / маслини",
+  "englishName": "Olives",
+  "description": "-",
+  "price": 60,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:45:23.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:45:23.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60f7dd51656694199207e"
+  },
+  "topCategory": "основне меню",
+  "category": "брускети",
+  "weight": "170",
+  "name": "брускета з сьомгою",
+  "englishName": "Bruschetta with lightly salted salmon",
+  "description": "-",
+  "price": 160,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:45:49.791Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:46:54.248Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60f8fd516566941992083"
+  },
+  "topCategory": "основне меню",
+  "category": "брускети",
+  "weight": "170",
+  "name": "брускета з креветкою",
+  "englishName": "Bruschetta with shrimp",
+  "description": "-",
+  "price": 170,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:46:07.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:47:14.575Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60fa5d516566941992088"
+  },
+  "topCategory": "основне меню",
+  "category": "брускети",
+  "weight": "170",
+  "name": "брускета з філе масляної риби",
+  "englishName": "Bruschetta with white fish fillet",
+  "description": "-",
+  "price": 160,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:46:29.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:46:29.985Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b60ff0d51656694199209b"
+  },
+  "topCategory": "основне меню",
+  "category": "брускети",
+  "weight": "170",
+  "name": "брускета з прошутто",
+  "englishName": "Bruschetta with prosciutto",
+  "description": "-",
+  "price": 130,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:47:44.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:47:44.613Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b6100bd5165669419920a0"
+  },
+  "topCategory": "основне меню",
+  "category": "салати",
+  "weight": "300",
+  "name": "теплий салат з молодою телятиною",
+  "englishName": "Salad with warm veal, cherry tomatoes, bell pepper, salad, cheese sauce",
+  "description": "телятина, солодкий перець, цибуля марс, черрі, мікс салату, сирний соус",
+  "price": 240,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:48:11.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:48:11.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b6101ed5165669419920a5"
+  },
+  "topCategory": "основне меню",
+  "category": "салати",
+  "weight": "250",
+  "name": "салат з прошутто",
+  "englishName": "Salad with prosciutto and pineapple",
+  "description": "прошутто, курка копчена, маринована груша, черрі, салат",
+  "price": 255,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:48:30.144Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:48:30.144Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61037d5165669419920aa"
+  },
+  "topCategory": "основне меню",
+  "category": "салати",
+  "weight": "260",
+  "name": "салат з ніжною печінкою та грушею",
+  "englishName": "Salad with chicken liver and pear",
+  "description": "карамелізована печінка, груша маринована, черрі, салат, ягідний соус",
+  "price": 185,
+  "action": false,
+  "new": true,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:48:55.660Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:48:55.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61055d5165669419920af"
+  },
+  "topCategory": "основне меню",
+  "category": "салати",
+  "weight": "230",
+  "name": "салат “цезар” з куркою",
+  "englishName": "Caesar salad with chicken",
+  "description": "-",
+  "price": 180,
+  "action": true,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:49:25.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:49:25.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b6106cd5165669419920b4"
+  },
+  "topCategory": "основне меню",
+  "category": "салати",
+  "weight": "230",
+  "name": "салат “цезар” з креветкою",
+  "englishName": "Caesar salad with shrimps ",
+  "description": "-",
+  "price": 250,
+  "action": true,
+  "new": true,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:49:48.658Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:49:48.658Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61089d5165669419920b9"
+  },
+  "topCategory": "основне меню",
+  "category": "салати",
+  "weight": "230",
+  "name": "салат “цезар” з лососем",
+  "englishName": "Caesar salad with salmon",
+  "description": "-",
+  "price": 250,
+  "action": false,
+  "new": false,
+  "discount": true,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:50:17.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:56:10.419Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b612c5d5165669419920d0"
+  },
+  "topCategory": "основне меню",
+  "category": "салати",
+  "weight": "280",
+  "name": "салат з тунцем",
+  "englishName": "Salad with tuna",
+  "description": "тунець, черрі, огірок, яйце куряче маслини, салат, мигдальні пластівці",
+  "price": 270,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T12:59:49.898Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T12:59:49.898Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61304d5165669419920d5"
+  },
+  "topCategory": "основне меню",
+  "category": "салати",
+  "weight": "235",
+  "name": "салат з сьомгою, цитрусом та авокадо",
+  "englishName": "Salad with light salted salmon, orange and avocado",
+  "description": "сьомга, авокадо, апельсин, маслини, черрі, салат, кедровий горіх",
+  "price": 290,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:00:52.786Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:23:06.108Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b6188cd5165669419920f2"
+  },
+  "topCategory": "основне меню",
+  "category": "салати",
+  "weight": "240",
+  "name": "салат норвезький",
+  "englishName": "Salmon, eel, tomatoes, Feta cheese, Unagi sauce, saesam, salad",
+  "description": "лосось, вугор, томати, сир Фета, соус Унагі, кунжут, мікс салату",
+  "price": 320,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:24:28.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:24:28.527Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b6189fd5165669419920f7"
+  },
+  "topCategory": "основне меню",
+  "category": "салати",
+  "weight": "230",
+  "name": "салат “грецький”",
+  "englishName": "Greek salad",
+  "description": "-",
+  "price": 130,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:24:47.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:24:47.569Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b618b9d5165669419920fc"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "100/150",
+  "name": "баранячі язики з овочами",
+  "englishName": "Lamb tongue with demi-glace sauce",
+  "description": "під соусом деміглас",
+  "price": 230,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:25:13.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:25:13.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b618cdd516566941992101"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "250",
+  "name": "курячі серця",
+  "englishName": "Chicken hearts with cream",
+  "description": "у сирно-вершковому соусі",
+  "price": 225,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:25:33.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:25:33.158Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b618fbd516566941992106"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "300",
+  "name": "курячі крильця",
+  "englishName": "Chicken wings",
+  "description": "у медово-гірчичному соусі",
+  "price": 145,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:26:19.640Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:26:19.640Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b6190fd51656694199210b"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "150",
+  "name": "курячі нагетси",
+  "englishName": "Nuggets",
+  "description": "з соусом тартар",
+  "price": 165,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:26:39.522Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:26:39.522Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61928d516566941992110"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "200/30",
+  "name": "попкорн з креветок",
+  "englishName": "Shrimps popcorn",
+  "description": "у темпурі",
+  "price": 200,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:27:04.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:27:04.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b6193ed516566941992115"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "120/30",
+  "name": "пательня тигрових креветок",
+  "englishName": "Shrimps",
+  "description": "-",
+  "price": 250,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:27:26.514Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:27:26.514Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61951d51656694199211a"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "150",
+  "name": "кільця кальмара",
+  "englishName": "Squid rings",
+  "description": "-",
+  "price": 190,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:27:45.662Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:27:45.662Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b6196ad51656694199211f"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "150/50",
+  "name": "сулугуні в паніровці",
+  "englishName": "Grilled Suluguni cheese with crust and garlic sauce",
+  "description": "під соусом деміглас",
+  "price": 140,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:28:10.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:28:10.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b6198ad516566941992124"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "150/50",
+  "name": "камамбер в паніровці",
+  "englishName": "Breading Camembert cheese with crust and lingonberry sauce",
+  "description": "з ягідним соусом",
+  "price": 185,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:28:42.728Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:28:42.728Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b6199ed516566941992129"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "260",
+  "name": "лаваш з сиром сулугуні",
+  "englishName": "Lavash with suluguni cheese",
+  "description": "-",
+  "price": 120,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:29:02.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:29:02.180Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b619b1d51656694199212e"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "150",
+  "name": "цибулеві кільця",
+  "englishName": "Onion rings",
+  "description": "-",
+  "price": 130,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:29:21.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:29:21.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b619c4d516566941992133"
+  },
+  "topCategory": "основне меню",
+  "category": "гарячі закуски",
+  "weight": "170",
+  "name": "часникові грінки",
+  "englishName": "Toasters with garlic and parmesan",
+  "description": "з пармезаном",
+  "price": 60,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:29:40.526Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:29:40.526Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b619d9d516566941992138"
+  },
+  "topCategory": "основне меню",
+  "category": "бургери",
+  "weight": "250/100",
+  "name": "біфбургер",
+  "englishName": "Beefburger",
+  "description": "-",
+  "price": 240,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:30:01.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:30:01.424Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b619e9d51656694199213d"
+  },
+  "topCategory": "основне меню",
+  "category": "бургери",
+  "weight": "250/100",
+  "name": "чікенбургер",
+  "englishName": "Chickenburger",
+  "description": "-",
+  "price": 220,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:30:17.870Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:30:17.870Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b619fed516566941992142"
+  },
+  "topCategory": "основне меню",
+  "category": "бургери",
+  "weight": "350/100",
+  "name": "дабл біфбургер",
+  "englishName": "Doubleburger",
+  "description": "-",
+  "price": 390,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:30:38.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:30:38.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61a12d516566941992147"
+  },
+  "topCategory": "основне меню",
+  "category": "супи",
+  "weight": "300",
+  "name": "шурпа з бараниною",
+  "englishName": "Eastern shurpa with lamb and fresh vegetable",
+  "description": "-",
+  "price": 300,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:30:58.721Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:30:58.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61a28d51656694199214c"
+  },
+  "topCategory": "основне меню",
+  "category": "супи",
+  "weight": "300",
+  "name": "окрошка з куркою",
+  "englishName": "Okroshka (cold soup) with chicken",
+  "description": "-",
+  "price": 90,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:31:20.243Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:31:20.243Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61a39d516566941992151"
+  },
+  "topCategory": "основне меню",
+  "category": "супи",
+  "weight": "300",
+  "name": "окрошка з яловичиною",
+  "englishName": "Okroshka (cold soup) with veal ",
+  "description": "-",
+  "price": 130,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:31:37.342Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:31:37.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61a4ad516566941992156"
+  },
+  "topCategory": "основне меню",
+  "category": "супи",
+  "weight": "300",
+  "name": "окрошка з сьомгою",
+  "englishName": "Okroshka (cold soup) with salmon",
+  "description": "-",
+  "price": 150,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:31:54.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:31:54.744Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61a5dd51656694199215b"
+  },
+  "topCategory": "основне меню",
+  "category": "супи",
+  "weight": "300",
+  "name": "холодник з яловичиною",
+  "englishName": "Caol soup with beetroot and veal",
+  "description": "-",
+  "price": 130,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:32:13.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:32:13.720Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61a81d516566941992160"
+  },
+  "topCategory": "основне меню",
+  "category": "супи",
+  "weight": "300",
+  "name": "курячий бульЙон з локшиною",
+  "englishName": "Classic chicken broth with noodles and egg",
+  "description": "-",
+  "price": 90,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:32:49.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:32:49.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61a93d516566941992165"
+  },
+  "topCategory": "основне меню",
+  "category": "супи",
+  "weight": "250",
+  "name": "крем-суп з печерицями",
+  "englishName": "Mushroom cream soup",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:33:07.031Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:33:07.031Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61ac5d51656694199216c"
+  },
+  "topCategory": "основне меню",
+  "category": "паста",
+  "weight": "310",
+  "name": "фунчоза з яловичиною",
+  "englishName": "Veal funchose",
+  "description": "фунчоза, яловичина, солодкий перець, морква, соус унагі",
+  "price": 190,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:33:57.913Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:33:57.913Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61ad7d516566941992171"
+  },
+  "topCategory": "основне меню",
+  "category": "паста",
+  "weight": "330",
+  "name": "фунчоза з морепродуктами",
+  "englishName": "Seafood funchose",
+  "description": "фунчоза, тигрова креветка, кальмар, солодкий перець, морква, унагі",
+  "price": 220,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:34:15.678Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:34:15.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61aedd516566941992176"
+  },
+  "topCategory": "основне меню",
+  "category": "паста",
+  "weight": "300",
+  "name": "спагетті “карбонара”",
+  "englishName": "“Carbonara” pasta with cream",
+  "description": "-",
+  "price": 165,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:34:37.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:34:37.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61b02d51656694199217b"
+  },
+  "topCategory": "основне меню",
+  "category": "паста",
+  "weight": "300",
+  "name": "паста 4 сири",
+  "englishName": "Pasta with blue cheese/ Grana Padano, Mozzarella and Cheddar",
+  "description": "паста з сирами Дор Блю, сир Грано Падано, Моцарелла та Чеддер",
+  "price": 155,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:34:58.300Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:34:58.300Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61b1ad516566941992180"
+  },
+  "topCategory": "основне меню",
+  "category": "основні страви",
+  "weight": "350",
+  "name": "медальйони з телятини",
+  "englishName": "Beef medallions with broccoli and mushroom sauce",
+  "description": "з брокколі та грибним соусом",
+  "price": 395,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:35:22.821Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:35:22.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61b30d516566941992185"
+  },
+  "topCategory": "основне меню",
+  "category": "основні страви",
+  "weight": "320",
+  "name": "качина ніжка з крокетами",
+  "englishName": "Duck leg with crockets",
+  "description": "-",
+  "price": 285,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:35:44.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:35:44.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61b4bd51656694199218a"
+  },
+  "topCategory": "основне меню",
+  "category": "основні страви",
+  "weight": "500/150",
+  "name": "баранячі ніжки",
+  "englishName": "Legs of lamb in demi-glace sauce with baked potatoes",
+  "description": "у соусі деміглас з печеною картоплею",
+  "price": 370,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:36:11.376Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:36:11.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61b5fd51656694199218f"
+  },
+  "topCategory": "основне меню",
+  "category": "основні страви",
+  "weight": "150",
+  "name": "курячий стейк",
+  "englishName": "Chicken steak",
+  "description": "з сирним соусом",
+  "price": 175,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:36:31.572Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:36:31.572Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61b72d516566941992194"
+  },
+  "topCategory": "основне меню",
+  "category": "основні страви",
+  "weight": "100",
+  "name": "свиняче ребро",
+  "englishName": "Pork ribs",
+  "description": "у медовому соусі",
+  "price": 90,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:36:50.866Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:36:50.866Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61b91d516566941992199"
+  },
+  "topCategory": "основне меню",
+  "category": "основні страви",
+  "weight": "130/220",
+  "name": "ароматна м’ясна сковорідка",
+  "englishName": "Meat pan with veal / pork",
+  "description": "яловичина / свинина",
+  "price": 240,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:37:21.785Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:37:21.785Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61ba6d51656694199219e"
+  },
+  "topCategory": "основне меню",
+  "category": "основні страви",
+  "weight": "1/2",
+  "name": "курча-гриль",
+  "englishName": "Grilled chicken",
+  "description": "-",
+  "price": 170,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:37:42.592Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:37:42.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61bb8d5165669419921a3"
+  },
+  "topCategory": "основне меню",
+  "category": "основні страви",
+  "weight": "150",
+  "name": "філе сьомги",
+  "englishName": "Salmon filled",
+  "description": "-",
+  "price": 350,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:38:00.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:38:00.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61bcbd5165669419921a8"
+  },
+  "topCategory": "основне меню",
+  "category": "основні страви",
+  "weight": "250",
+  "name": "філе дорадо",
+  "englishName": "Dorado filled with vegetables",
+  "description": "на овочевій подушці",
+  "price": 350,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:38:19.546Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:38:19.546Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61be0d5165669419921ad"
+  },
+  "topCategory": "основне меню",
+  "category": "bbq-меню",
+  "weight": "200",
+  "name": "люля-кебаб з курки",
+  "englishName": "Kebab chicken",
+  "description": "курка",
+  "price": 160,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:38:40.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:39:25.368Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61c08d5165669419921b4"
+  },
+  "topCategory": "основне меню",
+  "category": "bbq-меню",
+  "weight": "200",
+  "name": "люля-кебаб фірмовий",
+  "englishName": "Kebab branded",
+  "description": "-",
+  "price": 200,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:39:20.226Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:39:20.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61c2ad5165669419921bf"
+  },
+  "topCategory": "основне меню",
+  "category": "bbq-меню",
+  "weight": "200",
+  "name": "люля-кебаб ягнятина",
+  "englishName": "Kebab lamb",
+  "description": "ягнятина",
+  "price": 200,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:39:54.791Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:39:54.791Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61c3bd5165669419921c4"
+  },
+  "topCategory": "основне меню",
+  "category": "bbq-меню",
+  "weight": "200",
+  "name": "каре ягняти",
+  "englishName": "Rack of lamb",
+  "description": "-",
+  "price": 350,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:40:11.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:40:11.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61c4cd5165669419921c9"
+  },
+  "topCategory": "основне меню",
+  "category": "bbq-меню",
+  "weight": "100",
+  "name": "шашлик з телячої вирізки",
+  "englishName": "Veal shashlik",
+  "description": "-",
+  "price": 180,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:40:28.407Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:40:28.407Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61c88d5165669419921ce"
+  },
+  "topCategory": "основне меню",
+  "category": "bbq-меню",
+  "weight": "200",
+  "name": "шашлик зі свинячого ошийка",
+  "englishName": "Pork shashlik",
+  "description": "свинина",
+  "price": 200,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:41:28.462Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:41:28.462Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61c9bd5165669419921d3"
+  },
+  "topCategory": "основне меню",
+  "category": "bbq-меню",
+  "weight": "200",
+  "name": "шашлик з курячої грудки",
+  "englishName": "Chicken shashlik",
+  "description": "-",
+  "price": 165,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:41:47.440Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:41:47.440Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61cafd5165669419921d8"
+  },
+  "topCategory": "основне меню",
+  "category": "bbq-меню",
+  "weight": "200/150",
+  "name": "стейк рибай",
+  "englishName": "Ribeye steak with grilled corn",
+  "description": "з кукурудзою гриль",
+  "price": 300,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:42:07.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:42:07.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61cc8d5165669419921dd"
+  },
+  "topCategory": "основне меню",
+  "category": "bbq-меню",
+  "weight": "200/100",
+  "name": "стейк свинячий",
+  "englishName": "Grilled pork steak",
+  "description": "з овочами гриль",
+  "price": 230,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:42:32.559Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:42:32.559Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61cd9d5165669419921e2"
+  },
+  "topCategory": "основне меню",
+  "category": "bbq-меню",
+  "weight": "320",
+  "name": "скумбрія",
+  "englishName": "Mackerel with grilled vegetables",
+  "description": "з овочами гриль",
+  "price": 250,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:42:49.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:42:49.072Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61cebd5165669419921e7"
+  },
+  "topCategory": "основне меню",
+  "category": "bbq-меню",
+  "weight": "250",
+  "name": "хачапурі з листкового тіста",
+  "englishName": "Khachapuri with Suluguni in dough",
+  "description": "з сиром сулугуні на мангалі",
+  "price": 135,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:43:07.660Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:43:07.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61cffd5165669419921ec"
+  },
+  "topCategory": "основне меню",
+  "category": "сети",
+  "weight": "1350",
+  "name": "сет для великої компанії",
+  "englishName": "Set for big company",
+  "description": "стейк яловичий, стейк ошийок, нагетси, цибулеві кільця, картопля, свіжі овочі, соуси",
+  "price": 1050,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:43:27.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:43:27.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61d12d5165669419921f1"
+  },
+  "topCategory": "основне меню",
+  "category": "сети",
+  "weight": "1000/150",
+  "name": "асорті мангалу на компанію",
+  "englishName": "Assorted barbecue for 2-3 person",
+  "description": "шашлик з курячого філе, шашлик з ошийка, люля-кебаб курячий, люля-кебаб фірмовий, картопля по-селянськи",
+  "price": 900,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:43:46.991Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:43:46.991Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61d29d5165669419921f6"
+  },
+  "topCategory": "основне меню",
+  "category": "сети",
+  "weight": "750",
+  "name": "крильця асорті на компанію",
+  "englishName": "Assorted chicken wings for the company",
+  "description": "крильця Баффало, крильця в сирному соусі, крильця в медово-гірчичному соусі",
+  "price": 400,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:44:09.830Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:44:09.830Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61d3dd5165669419921fb"
+  },
+  "topCategory": "основне меню",
+  "category": "сети",
+  "weight": "970",
+  "name": "сет копченостей",
+  "englishName": "Set of smoked meat",
+  "description": "ребро х/к, копчені крильця, свинячі вушка, цибулеві кільця, сулугуні, часникові грінки",
+  "price": 700,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:44:29.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:44:29.251Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61d50d516566941992200"
+  },
+  "topCategory": "основне меню",
+  "category": "гарніри",
+  "weight": "150",
+  "name": "картопля фрі",
+  "englishName": "French fries / Creole potatoes",
+  "description": "картопля по-креольськи",
+  "price": 50,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:44:48.175Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:44:48.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61d64d516566941992205"
+  },
+  "topCategory": "основне меню",
+  "category": "гарніри",
+  "weight": "200",
+  "name": "картопля смажена",
+  "englishName": "fried potatoes with mushrooms and onions",
+  "description": "з печерицями та цибулею",
+  "price": 65,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:45:08.557Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:45:08.557Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61d7ad51656694199220a"
+  },
+  "topCategory": "основне меню",
+  "category": "гарніри",
+  "weight": "180",
+  "name": "відварна картопля",
+  "englishName": "Boiled potatoes with greens",
+  "description": "з зеленню",
+  "price": 50,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:45:30.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:45:30.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61d98d51656694199220f"
+  },
+  "topCategory": "основне меню",
+  "category": "гарніри",
+  "weight": "150",
+  "name": "спаржева квасоля",
+  "englishName": "Asparagus beans with garlic and sesame seeds",
+  "description": "з часником та кунжутом",
+  "price": 65,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:46:00.883Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:46:00.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61daed516566941992214"
+  },
+  "topCategory": "основне меню",
+  "category": "гарніри",
+  "weight": "320",
+  "name": "кукурудза під сиром",
+  "englishName": "Corn with cheese",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:46:22.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:46:22.978Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61dc1d516566941992219"
+  },
+  "topCategory": "основне меню",
+  "category": "гарніри",
+  "weight": "250",
+  "name": "овочі гриль",
+  "englishName": "Grilled vegetables",
+  "description": "-",
+  "price": 140,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:46:41.184Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:46:41.184Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61e0ed516566941992220"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "часниковий",
+  "englishName": "garlic sauce",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:47:58.376Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:47:58.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61e24d516566941992225"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "соус барбекю",
+  "englishName": "barbecue sauce",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:48:20.299Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:48:20.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61e37d51656694199222a"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "соус цезар",
+  "englishName": "caesar sauce",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:48:39.500Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:48:39.500Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61e4dd51656694199222f"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "хрін",
+  "englishName": "horseradish",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:49:01.008Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:49:01.008Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61e61d516566941992234"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "сирний соус",
+  "englishName": "cheese sauce",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:49:21.392Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:49:21.392Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61e73d516566941992239"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "гірчиця",
+  "englishName": "mustard",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:49:39.371Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:49:39.371Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61e88d51656694199223e"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "соус солодкий чилі",
+  "englishName": "sweet chili sauce",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:50:00.397Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:50:00.397Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61e98d516566941992243"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "аджика",
+  "englishName": "adjika",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:50:16.753Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:50:16.753Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61eacd516566941992248"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "соус тартар",
+  "englishName": "tartar sauce",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:50:36.268Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:50:36.268Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61ec8d51656694199224d"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "соус чилі ананас",
+  "englishName": "pineapple chili sauce",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:51:04.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:51:04.046Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61edbd516566941992252"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "ягідно-журавлиний соус",
+  "englishName": "berry-cranberry sauce",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:51:23.013Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:51:23.013Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b61eecd516566941992257"
+  },
+  "topCategory": "основне меню",
+  "category": "соуси",
+  "weight": "50",
+  "name": "шашличний соус",
+  "englishName": "barbecue sauce",
+  "description": "-",
+  "price": 25,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T13:51:40.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T13:51:40.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62c43d516566941992274"
+  },
+  "topCategory": "десерти",
+  "category": "тістечка",
+  "weight": "130",
+  "name": "французький шоколадний",
+  "englishName": "Chocolate fondant à la glace",
+  "description": "фондан з морозивом",
+  "price": 105,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:48:35.533Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:48:35.533Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62d15d516566941992279"
+  },
+  "topCategory": "десерти",
+  "category": "пиріг",
+  "weight": "125",
+  "name": "фісташковий пиріг",
+  "englishName": "Pistachio pie",
+  "description": "-",
+  "price": 120,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:52:05.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:52:05.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62d2fd51656694199227e"
+  },
+  "topCategory": "десерти",
+  "category": "чизкейк",
+  "weight": "150",
+  "name": "чизкейк карамельний",
+  "englishName": "Caramel cheesecake",
+  "description": "-",
+  "price": 120,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:52:31.486Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:52:31.486Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62d4cd516566941992283"
+  },
+  "topCategory": "десерти",
+  "category": "вафлі",
+  "weight": "260",
+  "name": "бельгійські вафлі",
+  "englishName": "Belgian waffles with berry sauce",
+  "description": "з ягідним соусом",
+  "price": 145,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:53:00.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:53:00.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62d5ed516566941992288"
+  },
+  "topCategory": "десерти",
+  "category": "морозиво",
+  "weight": "50",
+  "name": "морозиво на вибір",
+  "englishName": "Ice cream",
+  "description": "-",
+  "price": 50,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:53:18.660Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:53:18.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62db8d51656694199228f"
+  },
+  "topCategory": "основне меню",
+  "category": "піца",
+  "weight": "550",
+  "name": "Піца “Soul meat”",
+  "englishName": "-",
+  "description": "Прошутто, салямі, пеппероні, шинка, моцарела, томатний соус, рукола",
+  "price": 280,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:54:48.808Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:56:52.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62dcdd516566941992294"
+  },
+  "topCategory": "основне меню",
+  "category": "піца",
+  "weight": "610",
+  "name": "Піца “Гавайська”",
+  "englishName": "-",
+  "description": "Бекон, куряче філе, кукурудза, ананас, моцарела, соус чилі, рукола",
+  "price": 235,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:55:09.097Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:56:45.401Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62de4d516566941992299"
+  },
+  "topCategory": "основне меню",
+  "category": "піца",
+  "weight": "570",
+  "name": "Піца з Прошутто",
+  "englishName": "-",
+  "description": "Прошутто, шинка. черрі, пармезан, моцарела, томатний соус, рукола",
+  "price": 280,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:55:32.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:56:37.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62dfcd51656694199229e"
+  },
+  "topCategory": "основне меню",
+  "category": "піца",
+  "weight": "640",
+  "name": "Піца “Барбекю”",
+  "englishName": "-",
+  "description": "Салямі, бекон, мисливські ковбаски, моцарела, томатний соус, рукола",
+  "price": 270,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:55:56.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:56:29.898Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62e14d5165669419922a3"
+  },
+  "topCategory": "основне меню",
+  "category": "піца",
+  "weight": "560",
+  "name": "Піца “Карбонара”",
+  "englishName": "-",
+  "description": "Бекон, перепилине яйце, пармезан, моцарела, вершковий соус, рукола",
+  "price": 260,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:56:20.106Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:56:20.106Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62e4ed5165669419922b8"
+  },
+  "topCategory": "основне меню",
+  "category": "піца",
+  "weight": "540",
+  "name": "Піца з куркою та грибами",
+  "englishName": "-",
+  "description": "Куряче філе, печериці, томат, маслини, вершковий соус, рукола",
+  "price": 215,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:57:18.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:57:18.363Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62e62d5165669419922bd"
+  },
+  "topCategory": "основне меню",
+  "category": "піца",
+  "weight": "500",
+  "name": "Піца “Цезар”",
+  "englishName": "-",
+  "description": "Куряче філе, соус Цезар, вершковий соус, рукола, моцарела",
+  "price": 240,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:57:38.403Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:57:38.403Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62e82d5165669419922c2"
+  },
+  "topCategory": "основне меню",
+  "category": "піца",
+  "weight": "500",
+  "name": "Піца “Пепероні”",
+  "englishName": "-",
+  "description": "Пеппероні, моцарела, пармезан, томатний соус, рукола",
+  "price": 260,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:58:10.571Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:58:10.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62e9cd5165669419922c7"
+  },
+  "topCategory": "основне меню",
+  "category": "піца",
+  "weight": "550",
+  "name": "Піца “Мисливська”",
+  "englishName": "-",
+  "description": "Мисливські ковбаски, огірок солоний, маслини, рукола",
+  "price": 250,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:58:36.333Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:58:36.333Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62eb2d5165669419922cc"
+  },
+  "topCategory": "основне меню",
+  "category": "піца",
+  "weight": "580",
+  "name": "Піца з сьомгою",
+  "englishName": "-",
+  "description": "Сьомга, сир Дор Блю, томат, моцарела, вершковий соус, рукола",
+  "price": 300,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:58:58.918Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:58:58.918Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b62eced5165669419922d1"
+  },
+  "topCategory": "основне меню",
+  "category": "піца",
+  "weight": "500",
+  "name": "Піца “4 сири”",
+  "englishName": "-",
+  "description": "Пармезан, моцарела, чеддер, дор Блю, вершковий соус, рукола",
+  "price": 235,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-09T14:59:26.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T14:59:26.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9bbf65535113531374c88"
+  },
+  "topCategory": "напої",
+  "category": "пиво",
+  "weight": "0.33",
+  "name": "Paulaner hefe-Weissbier, 0.33л",
+  "englishName": "Німеччина. Міцність 5,5%, щільність 12%",
+  "description": "Найпопулярніше пшеничне пиво Німеччини. У його склад входить світлий і темний пшеничний солод, ячмінний солод та мюнхенський темний солод, відбірний хміль та джерельна вода. ",
+  "price": 85,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T07:38:30.761Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T07:38:30.761Z"
+  },
+  "subCategory": "кегове пиво"
+},
+{
+  "_id": {
+    "$oid": "66b9bc125535113531374c8d"
+  },
+  "topCategory": "напої",
+  "category": "пиво",
+  "weight": "0.5",
+  "name": "Paulaner hefe-Weissbier, 0.5л",
+  "englishName": "Німеччина. Міцність 5,5%, щільність 12%",
+  "description": "Найпопулярніше пшеничне пиво Німеччини. У його склад входить світлий і темний пшеничний солод, ячмінний солод та мюнхенський темний солод, відбірний хміль та джерельна вода. ",
+  "price": 125,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T07:38:58.244Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T07:38:58.244Z"
+  },
+  "subCategory": "кегове пиво"
+},
+{
+  "_id": {
+    "$oid": "66b9bc345535113531374c92"
+  },
+  "topCategory": "напої",
+  "category": "пиво",
+  "weight": "0.33",
+  "name": "Hoegaarden, 0.33л",
+  "englishName": "Бельгія. Міцність 4,8%, щільність 11,7%",
+  "description": "Біле пшеничне нефільтроване пиво з нотами коріандру та сушеної апельсинової цедри. Має приємний кисло-солодкий смак.",
+  "price": 70,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T07:39:32.496Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T07:39:32.496Z"
+  },
+  "subCategory": "кегове пиво"
+},
+{
+  "_id": {
+    "$oid": "66b9bc495535113531374c97"
+  },
+  "topCategory": "напої",
+  "category": "пиво",
+  "weight": "0.5",
+  "name": "Hoegaarden, 0.5л",
+  "englishName": "Бельгія. Міцність 4,8%, щільність 11,7%",
+  "description": "Біле пшеничне нефільтроване пиво з нотами коріандру та сушеної апельсинової цедри. Має приємний кисло-солодкий смак.",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T07:39:53.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T07:39:53.944Z"
+  },
+  "subCategory": "кегове пиво"
+},
+{
+  "_id": {
+    "$oid": "66b9bc725535113531374c9c"
+  },
+  "topCategory": "напої",
+  "category": "пиво",
+  "weight": "0.5",
+  "name": "Pilsner Urquell",
+  "englishName": "Чехія. Міцність 4,4%, щільність 11,7%",
+  "description": "Легендарне чеське пиво на основі солоду Saaz та унікальної технології потрійного виварювання",
+  "price": 120,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T07:40:34.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T07:40:34.806Z"
+  },
+  "subCategory": "кегове пиво"
+},
+{
+  "_id": {
+    "$oid": "66b9bc8a5535113531374ca1"
+  },
+  "topCategory": "напої",
+  "category": "пиво",
+  "weight": "0.5",
+  "name": "Estrella",
+  "englishName": "Іспанія. Міцність 4,6%, щільність 10,7%",
+  "description": "Зіркове пиво Іспанії. Має солом’яний колір зі стійкою пінкою. У ароматі легкі солодові тона та легка “сирість”. Смак трохи солодкий з гіркою ноткою.",
+  "price": 120,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T07:40:58.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T07:40:58.698Z"
+  },
+  "subCategory": "кегове пиво"
+},
+{
+  "_id": {
+    "$oid": "66b9bcb65535113531374ca6"
+  },
+  "topCategory": "напої",
+  "category": "пиво",
+  "weight": "0.33",
+  "name": "Stella Artois, 0.33л",
+  "englishName": "Бельгія. Міцність 5,2%, щільність 14,4%",
+  "description": "Пиво низового бродіння, світлий лагер, традиційне бельгійське пиво",
+  "price": 45,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T07:41:42.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T07:42:26.438Z"
+  },
+  "subCategory": "кегове пиво"
+},
+{
+  "_id": {
+    "$oid": "66b9bcd45535113531374cab"
+  },
+  "topCategory": "напої",
+  "category": "пиво",
+  "weight": "0.5",
+  "name": "Stella Artois, 0.5л",
+  "englishName": "Бельгія. Міцність 5,2%, щільність 14,4%",
+  "description": "Пиво низового бродіння, світлий лагер, традиційне бельгійське пиво",
+  "price": 70,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T07:42:12.894Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T07:42:12.894Z"
+  },
+  "subCategory": "кегове пиво"
+},
+{
+  "_id": {
+    "$oid": "66b9bed95535113531374cb6"
+  },
+  "topCategory": "напої",
+  "subCategory": "кегове пиво",
+  "category": "пиво",
+  "weight": "0.33",
+  "name": "Soul Лагер, 0.33л",
+  "englishName": "Міцність 4,7%, щільність 10,8%",
+  "description": "Класичний світлий лагер",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T07:50:49.837Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T07:50:49.837Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c10f5535113531374cbd"
+  },
+  "topCategory": "напої",
+  "subCategory": "кегове пиво",
+  "category": "пиво",
+  "weight": "0.5",
+  "name": "Soul Лагер, 0.5л",
+  "englishName": "Міцність 4,7%, щільність 10,8%",
+  "description": "Класичний світлий лагер",
+  "price": 60,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:00:15.804Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:00:15.804Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c1415535113531374cc2"
+  },
+  "topCategory": "напої",
+  "subCategory": "кегове пиво",
+  "category": "пиво",
+  "weight": "0.33",
+  "name": "Soul нефільтроване, 0.33л",
+  "englishName": "Міцність 4,6%, щільність 12%",
+  "description": "Нефільтроване світле пиво з чистим солодовим смаком та хмельними нотами",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:01:05.127Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:01:05.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c15a5535113531374cc7"
+  },
+  "topCategory": "напої",
+  "subCategory": "кегове пиво",
+  "category": "пиво",
+  "weight": "0.5",
+  "name": "Soul нефільтроване, 0.5л",
+  "englishName": "Міцність 4,6%, щільність 12%",
+  "description": "Нефільтроване світле пиво з чистим солодовим смаком та хмельними нотами",
+  "price": 60,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:01:30.323Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:01:30.323Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c17c5535113531374ccc"
+  },
+  "topCategory": "напої",
+  "subCategory": "кегове пиво",
+  "category": "пиво",
+  "weight": "40",
+  "name": "Soul темне, 0.33л",
+  "englishName": "Міцність 5,0%, щільність 12%",
+  "description": "Темне пиво з хмельними нотами",
+  "price": 60,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:02:04.641Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:02:04.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c1955535113531374cd1"
+  },
+  "topCategory": "напої",
+  "subCategory": "кегове пиво",
+  "category": "пиво",
+  "weight": "0.5",
+  "name": "Soul темне, 0.5л",
+  "englishName": "Міцність 5,0%, щільність 12%",
+  "description": "Темне пиво з хмельними нотами",
+  "price": 60,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:02:29.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:02:29.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c2f95535113531374cdc"
+  },
+  "topCategory": "напої",
+  "subCategory": "кегове пиво",
+  "category": "пиво",
+  "weight": "0.33",
+  "name": "Сидр Soul, 0.33л",
+  "englishName": "-",
+  "description": "-",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:08:25.141Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:08:25.141Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c3085535113531374ce1"
+  },
+  "topCategory": "напої",
+  "subCategory": "кегове пиво",
+  "category": "пиво",
+  "weight": "0.5",
+  "name": "Сидр Soul, 0.5л",
+  "englishName": "-",
+  "description": "-",
+  "price": 60,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:08:40.113Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:08:40.113Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c3285535113531374ce6"
+  },
+  "topCategory": "напої",
+  "subCategory": "кегове пиво",
+  "category": "пиво",
+  "weight": "0.5",
+  "name": "Clausthaler n/a",
+  "englishName": "-",
+  "description": "Пиво безалкогольне",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:09:12.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:09:12.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c3475535113531374ceb"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "200",
+  "name": "Ковбаски",
+  "englishName": "Chicken / pork sausages",
+  "description": "курка / свинина",
+  "price": 200,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:09:43.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:09:43.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c35c5535113531374cf0"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "300",
+  "name": "Копчені ребра",
+  "englishName": "Smoked ribs",
+  "description": "-",
+  "price": 185,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:10:04.487Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:10:04.487Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c36f5535113531374cf5"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "300",
+  "name": "Копчені курячі крильця",
+  "englishName": "Smoked chicken wings",
+  "description": "-",
+  "price": 175,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:10:23.257Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:10:23.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c3865535113531374cfa"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "300",
+  "name": "Курячі крильця",
+  "englishName": "Chicken wings in spicy honey sauce",
+  "description": "у пряно-медовому соусі",
+  "price": 145,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:10:46.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:10:46.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c3a15535113531374cff"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "150/50",
+  "name": "Курячі нагетси",
+  "englishName": "Chicken nuggets with garlic sauce",
+  "description": "з часниковим соусом",
+  "price": 165,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:11:13.538Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:11:13.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c47f5535113531374d08"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "50",
+  "name": "бастурма ",
+  "englishName": "basturma",
+  "description": "яловичина",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:14:55.330Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:14:55.330Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c4995535113531374d0d"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "200",
+  "name": "копчені свинячі вушка",
+  "englishName": "Smoked pork ears",
+  "description": "з соусом унагі",
+  "price": 175,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:15:21.408Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:15:21.408Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c4ae5535113531374d12"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "150",
+  "name": "креветки відварні",
+  "englishName": "Boiled shrimps",
+  "description": "креветки",
+  "price": 220,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:15:42.819Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:15:42.819Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c4c75535113531374d17"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "150",
+  "name": "креветки смажені",
+  "englishName": "Fried shrimps",
+  "description": "креветки",
+  "price": 230,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:16:07.525Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:16:07.525Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c4e45535113531374d1e"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "120/30",
+  "name": "пательня тигрових креветок ",
+  "englishName": "Shrimps",
+  "description": "креветки",
+  "price": 250,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:16:36.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:16:36.328Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c4f95535113531374d23"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "50",
+  "name": "балик товстолоба",
+  "englishName": "Silver carp",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:16:57.410Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:16:57.410Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c50e5535113531374d28"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "100",
+  "name": "косичка сулугуні",
+  "englishName": "suluguni cheese",
+  "description": "сир Сулугуні",
+  "price": 60,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:17:18.606Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:17:18.606Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c52f5535113531374d2f"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "150/50",
+  "name": "цибулеві кільця ",
+  "englishName": "onion rings",
+  "description": "цибулеві кільця смажені у клярі",
+  "price": 130,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:17:51.913Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:17:51.913Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c5435535113531374d34"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "50",
+  "name": "фісташки",
+  "englishName": "Pistachios",
+  "description": "-",
+  "price": 75,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:18:11.537Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:18:11.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c5555535113531374d39"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "100",
+  "name": "пікантний арахіс",
+  "englishName": "Peanut",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:18:29.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:18:29.235Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c56a5535113531374d40"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "170",
+  "name": "часникові грінки ",
+  "englishName": "Toasters with garlic and parmesan",
+  "description": "з пармезаном",
+  "price": 60,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:18:50.740Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:18:50.740Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c5855535113531374d47"
+  },
+  "topCategory": "напої",
+  "subCategory": "закуски до пива",
+  "category": "пиво",
+  "weight": "970",
+  "name": "сет копченостей ",
+  "englishName": "Pork ribs, smoked wings, suluguni, onion rings, pig ears",
+  "description": "Свинячі ребра, копчені крильця, сулугуні, цибулеві кільця, свинячі вуха",
+  "price": 700,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:19:17.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:19:17.516Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9c6035535113531374d4c"
+  },
+  "topCategory": "напої",
+  "subCategory": "горілка",
+  "category": "горілка",
+  "weight": "50",
+  "name": "Старицький Левицький",
+  "englishName": "Staritsky & Levitsky",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:21:23.829Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:21:23.829Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9cf3d5535113531374d63"
+  },
+  "topCategory": "напої",
+  "subCategory": "горілка",
+  "category": "горілка",
+  "weight": "50",
+  "name": "Коскенкорва",
+  "englishName": "Koskenkorva",
+  "description": "-",
+  "price": 70,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:00:45.961Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:00:45.961Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9cf5e5535113531374d68"
+  },
+  "topCategory": "напої",
+  "subCategory": "горілка",
+  "category": "горілка",
+  "weight": "50",
+  "name": "Нікіта",
+  "englishName": "Nikita",
+  "description": "-",
+  "price": 45,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:01:18.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:01:18.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9cf745535113531374d6d"
+  },
+  "topCategory": "напої",
+  "subCategory": "горілка",
+  "category": "горілка",
+  "weight": "50",
+  "name": "Неміров де Люкс",
+  "englishName": "Nemiroff de Luxe",
+  "description": "-",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:01:40.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:01:40.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9cf8e5535113531374d72"
+  },
+  "topCategory": "напої",
+  "subCategory": "горілка",
+  "category": "горілка",
+  "weight": "50",
+  "name": "Неміров штоф",
+  "englishName": "Nemiroff Stoff",
+  "description": "-",
+  "price": 35,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:02:06.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:02:06.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d06e5535113531374d77"
+  },
+  "topCategory": "напої",
+  "subCategory": "коньяк",
+  "category": "коньяк та бренді",
+  "weight": "50",
+  "name": "Мартель VS",
+  "englishName": "Martel VS",
+  "description": "-",
+  "price": 180,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:05:50.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:05:50.867Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d0825535113531374d7c"
+  },
+  "topCategory": "напої",
+  "subCategory": "коньяк",
+  "category": "коньяк та бренді",
+  "weight": "50",
+  "name": "Таврія VS",
+  "englishName": "Tavria VS",
+  "description": "-",
+  "price": 65,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:06:10.786Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:06:10.786Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d0955535113531374d81"
+  },
+  "topCategory": "напої",
+  "subCategory": "коньяк",
+  "category": "коньяк та бренді",
+  "weight": "50",
+  "name": "Закарпатський",
+  "englishName": "Zakarpats`kyy",
+  "description": "-",
+  "price": 60,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:06:29.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:06:29.831Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d0af5535113531374d86"
+  },
+  "topCategory": "напої",
+  "subCategory": "бренді",
+  "category": "коньяк та бренді",
+  "weight": "50",
+  "name": "Сараджишвілі 3*",
+  "englishName": "Sarajishvili 3*",
+  "description": "-",
+  "price": 85,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:06:55.198Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:06:55.198Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d0c25535113531374d8b"
+  },
+  "topCategory": "напої",
+  "subCategory": "бренді",
+  "category": "коньяк та бренді",
+  "weight": "50",
+  "name": "Торрес 5 років",
+  "englishName": "Torres 5 y.o.",
+  "description": "-",
+  "price": 75,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:07:14.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:07:14.650Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d1085535113531374d92"
+  },
+  "topCategory": "напої",
+  "subCategory": "настоянки",
+  "category": "настоянки",
+  "weight": "50",
+  "name": "Хреновуха",
+  "englishName": "Horseradish",
+  "description": "-",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:08:24.893Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:08:24.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d11d5535113531374d97"
+  },
+  "topCategory": "напої",
+  "subCategory": "настоянки",
+  "category": "настоянки",
+  "weight": "50",
+  "name": "Облепиха",
+  "englishName": "Sea buckthorn",
+  "description": "-",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:08:45.954Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:08:45.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d13e5535113531374d9c"
+  },
+  "topCategory": "напої",
+  "subCategory": "настоянки",
+  "category": "настоянки",
+  "weight": "50",
+  "name": "Samo-gon",
+  "englishName": "Samo-gon",
+  "description": "пшен. односолод",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:09:18.627Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:09:18.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d1505535113531374da1"
+  },
+  "topCategory": "напої",
+  "subCategory": "настоянки",
+  "category": "настоянки",
+  "weight": "50",
+  "name": "Перцовка",
+  "englishName": "Pepper",
+  "description": "-",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:09:36.803Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:09:36.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d1635535113531374da6"
+  },
+  "topCategory": "напої",
+  "subCategory": "настоянки",
+  "category": "настоянки",
+  "weight": "50",
+  "name": "Полуниця",
+  "englishName": "Strawberries",
+  "description": "-",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:09:55.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:09:55.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d1735535113531374dab"
+  },
+  "topCategory": "напої",
+  "subCategory": "настоянки",
+  "category": "настоянки",
+  "weight": "50",
+  "name": "Журавлина",
+  "englishName": "Cranberry",
+  "description": "-",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:10:11.221Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:10:11.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d1865535113531374db0"
+  },
+  "topCategory": "напої",
+  "subCategory": "настоянки",
+  "category": "настоянки",
+  "weight": "50",
+  "name": "Малина",
+  "englishName": "Малина",
+  "description": "-",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:10:30.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:10:30.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d1e35535113531374db5"
+  },
+  "topCategory": "напої",
+  "subCategory": "джин",
+  "category": "джин",
+  "weight": "50",
+  "name": "Хендрікс",
+  "englishName": "Hendrick`s",
+  "description": "-",
+  "price": 170,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:12:03.402Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:12:03.402Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d1f95535113531374dba"
+  },
+  "topCategory": "напої",
+  "subCategory": "джин",
+  "category": "джин",
+  "weight": "50",
+  "name": "Вітлі нейл алое / огірок",
+  "englishName": "Whitley Neill aloe / cucumber",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:12:25.492Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:12:25.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d2115535113531374dbf"
+  },
+  "topCategory": "напої",
+  "subCategory": "джин",
+  "category": "джин",
+  "weight": "50",
+  "name": "Вітлі нейл грейпфрут",
+  "englishName": "Whitley Neill grapefruit",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:12:49.764Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:12:49.764Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d23a5535113531374dc4"
+  },
+  "topCategory": "напої",
+  "subCategory": "джин",
+  "category": "джин",
+  "weight": "50",
+  "name": "Вітлі нейл айва-абрикос",
+  "englishName": "Whitley Neill quinca-apricot",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:13:30.847Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:13:30.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9d2575535113531374dc9"
+  },
+  "topCategory": "напої",
+  "subCategory": "джин",
+  "category": "джин",
+  "weight": "50",
+  "name": "Біфітер",
+  "englishName": "Beefeater",
+  "description": "-",
+  "price": 85,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T09:13:59.651Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T09:13:59.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9eaf65535113531374dd0"
+  },
+  "topCategory": "напої",
+  "subCategory": "вермути",
+  "category": "вермути",
+  "weight": "100",
+  "name": "Мартіні Фієро",
+  "englishName": "Martini Fiero",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T10:59:02.311Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T10:59:02.311Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9eb2e5535113531374dd5"
+  },
+  "topCategory": "напої",
+  "subCategory": "вермути",
+  "category": "вермути",
+  "weight": "100",
+  "name": "Мартіні Драй",
+  "englishName": "Martini Dry",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T10:59:58.459Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T10:59:58.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9eb445535113531374dda"
+  },
+  "topCategory": "напої",
+  "subCategory": "вермути",
+  "category": "вермути",
+  "weight": "100",
+  "name": "Мартіні Б’янко",
+  "englishName": "Martini Bianco",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:00:20.896Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:00:20.896Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9eb635535113531374ddf"
+  },
+  "topCategory": "напої",
+  "subCategory": "вермути",
+  "category": "вермути",
+  "weight": "100",
+  "name": "Мартіні Россо",
+  "englishName": "Martini Rosso",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:00:51.020Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:00:51.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ec1c5535113531374de4"
+  },
+  "topCategory": "напої",
+  "subCategory": "мескаль",
+  "category": "текіла та мескаль",
+  "weight": "50",
+  "name": "Мескаль Монтелобос",
+  "englishName": "Mezcal Montelobos",
+  "description": "-",
+  "price": 200,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:03:56.036Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:03:56.036Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ec325535113531374de9"
+  },
+  "topCategory": "напої",
+  "subCategory": "текіла",
+  "category": "текіла та мескаль",
+  "weight": "50",
+  "name": "Хосе Куерво сільвер",
+  "englishName": "Jose Cuervo Silver",
+  "description": "-",
+  "price": 125,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:04:18.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:04:18.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ec455535113531374dee"
+  },
+  "topCategory": "напої",
+  "subCategory": "текіла",
+  "category": "текіла та мескаль",
+  "weight": "50",
+  "name": "Хосе Куерво Репосадо",
+  "englishName": "Jose Cuervo Especiale",
+  "description": "-",
+  "price": 125,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:04:37.133Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:04:37.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ec815535113531374df3"
+  },
+  "topCategory": "напої",
+  "subCategory": "ром",
+  "category": "ром",
+  "weight": "50",
+  "name": "Кракен блек",
+  "englishName": "Kraken black",
+  "description": "-",
+  "price": 140,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:05:37.365Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:05:37.365Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ec935535113531374df8"
+  },
+  "topCategory": "напої",
+  "subCategory": "ром",
+  "category": "ром",
+  "weight": "50",
+  "name": "Бакарді бланко",
+  "englishName": "Bacardi carta blanca",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:05:55.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:05:55.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9eca65535113531374dfd"
+  },
+  "topCategory": "напої",
+  "subCategory": "ром",
+  "category": "ром",
+  "weight": "50",
+  "name": "Бакарді негра",
+  "englishName": "Bacardi carta negra",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:06:14.741Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:06:14.741Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ecc45535113531374e02"
+  },
+  "topCategory": "напої",
+  "subCategory": "ром",
+  "category": "ром",
+  "weight": "50",
+  "name": "Бакарді спайсед",
+  "englishName": "Bacardi spiced",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:06:44.924Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:06:44.924Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ed0e5535113531374e07"
+  },
+  "topCategory": "напої",
+  "subCategory": "ром",
+  "category": "ром",
+  "weight": "50",
+  "name": "Бакарді окхарт",
+  "englishName": "Bacardi Oakheart",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:07:58.241Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:07:58.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ed235535113531374e0c"
+  },
+  "topCategory": "напої",
+  "subCategory": "віскі шотландських островів",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Арран Баррель резерва",
+  "englishName": "Arran Barrel Reserve",
+  "description": "-",
+  "price": 200,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:08:19.671Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:08:19.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ed365535113531374e11"
+  },
+  "topCategory": "напої",
+  "subCategory": "віскі шотландських островів",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Таліскер",
+  "englishName": "Talisker",
+  "description": "-",
+  "price": 230,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:08:38.662Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:08:38.662Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ed495535113531374e16"
+  },
+  "topCategory": "напої",
+  "subCategory": "віскі шотландських островів",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Смоукхед",
+  "englishName": "Smokehead",
+  "description": "-",
+  "price": 240,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:08:57.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:08:57.251Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ed645535113531374e1b"
+  },
+  "topCategory": "напої",
+  "subCategory": "віскі шотландських островів",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Лафрой 10 років",
+  "englishName": "Laphroaig 10 y.o.",
+  "description": "-",
+  "price": 270,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:09:24.682Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:09:24.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ed7a5535113531374e20"
+  },
+  "topCategory": "напої",
+  "subCategory": "віскі шотландських островів",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Ісла Міст",
+  "englishName": "Islay Mist",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:09:46.908Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:09:46.908Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ed915535113531374e25"
+  },
+  "topCategory": "напої",
+  "subCategory": "віскі шотландських островів",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Гленморанж 10 років",
+  "englishName": "Glenmorangie 10 y.o.",
+  "description": "-",
+  "price": 200,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:10:09.976Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:10:09.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9eda45535113531374e2a"
+  },
+  "topCategory": "напої",
+  "subCategory": "віскі шотландських островів",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Скапа Скірен",
+  "englishName": "Scapa Skiren",
+  "description": "-",
+  "price": 280,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:10:28.920Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:10:28.920Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9efb05535113531374e31"
+  },
+  "topCategory": "напої",
+  "subCategory": "шотландський віскі",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Беллс",
+  "englishName": "Bells",
+  "description": "-",
+  "price": 75,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:19:12.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:19:12.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9efc95535113531374e36"
+  },
+  "topCategory": "напої",
+  "subCategory": "шотландський віскі",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Манкі Шоулдер",
+  "englishName": "Monkey Shoulder",
+  "description": "-",
+  "price": 180,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:19:37.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:19:37.867Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f05c5535113531374e3b"
+  },
+  "topCategory": "напої",
+  "subCategory": "ірландський віскі",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Джеймісон",
+  "englishName": "Jameson",
+  "description": "-",
+  "price": 90,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:22:04.250Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:22:04.250Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f07b5535113531374e40"
+  },
+  "topCategory": "напої",
+  "subCategory": "ірландський віскі",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Погіс",
+  "englishName": "Pogues",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:22:35.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:22:35.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f0b05535113531374e45"
+  },
+  "topCategory": "напої",
+  "subCategory": "американський віскі ",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Джек Деніелз Медовий",
+  "englishName": "Jack Daniels honey",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:23:28.636Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:23:28.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f0c45535113531374e4a"
+  },
+  "topCategory": "напої",
+  "subCategory": "американський віскі ",
+  "category": "віскі",
+  "weight": "50",
+  "name": "Джек Деніелз",
+  "englishName": "Jack Daniels ",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:23:48.375Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:23:48.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f1025535113531374e4f"
+  },
+  "topCategory": "напої",
+  "subCategory": "біттери",
+  "category": "біттери",
+  "weight": "50",
+  "name": "Абсент Ксента",
+  "englishName": "Ancenta Xenta",
+  "description": "-",
+  "price": 105,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:24:50.920Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:24:50.920Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f1155535113531374e54"
+  },
+  "topCategory": "напої",
+  "subCategory": "біттери",
+  "category": "біттери",
+  "weight": "50",
+  "name": "Бехеровка / Бехеровка лимон",
+  "englishName": "Becherovka / Becherovka lemon",
+  "description": "-",
+  "price": 65,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:25:09.475Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:25:09.475Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f1285535113531374e59"
+  },
+  "topCategory": "напої",
+  "subCategory": "біттери",
+  "category": "біттери",
+  "weight": "50",
+  "name": "Єгермейстер",
+  "englishName": "Jagermeister",
+  "description": "-",
+  "price": 75,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:25:28.164Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:25:28.164Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f1365535113531374e5e"
+  },
+  "topCategory": "напої",
+  "subCategory": "біттери",
+  "category": "біттери",
+  "weight": "50",
+  "name": "Кампарі",
+  "englishName": "Campari",
+  "description": "-",
+  "price": 55,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:25:42.754Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:25:42.754Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f1485535113531374e63"
+  },
+  "topCategory": "напої",
+  "subCategory": "біттери",
+  "category": "біттери",
+  "weight": "50",
+  "name": "Апероль",
+  "englishName": "Aperol",
+  "description": "-",
+  "price": 55,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:26:00.625Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:26:00.625Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f19a5535113531374e68"
+  },
+  "topCategory": "напої",
+  "subCategory": "лікери",
+  "category": "лікери",
+  "weight": "50",
+  "name": "Самбука",
+  "englishName": "Sambuca",
+  "description": "-",
+  "price": 90,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:27:22.606Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:27:22.606Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f1a75535113531374e6d"
+  },
+  "topCategory": "напої",
+  "subCategory": "лікери",
+  "category": "лікери",
+  "weight": "50",
+  "name": "Бейліз",
+  "englishName": "Baileys",
+  "description": "-",
+  "price": 90,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:27:35.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:27:35.471Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f1b45535113531374e72"
+  },
+  "topCategory": "напої",
+  "subCategory": "лікери",
+  "category": "лікери",
+  "weight": "50",
+  "name": "Калуа",
+  "englishName": "Kahlua",
+  "description": "-",
+  "price": 90,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:27:48.061Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:27:48.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f1c75535113531374e77"
+  },
+  "topCategory": "напої",
+  "subCategory": "лікери",
+  "category": "лікери",
+  "weight": "50",
+  "name": "Куантро",
+  "englishName": "Cointreau",
+  "description": "-",
+  "price": 115,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:28:07.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:28:07.118Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f2035535113531374e7c"
+  },
+  "topCategory": "напої",
+  "subCategory": "ігристе вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Просекко Тревізо",
+  "englishName": "Prosecco Treviso Extra dry",
+  "description": "-",
+  "price": 750,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:29:07.346Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:29:07.346Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f2135535113531374e81"
+  },
+  "topCategory": "напої",
+  "subCategory": "ігристе вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Кава Хауме",
+  "englishName": "Cava Jaume",
+  "description": "-",
+  "price": 500,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:29:23.301Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:29:23.301Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f2305535113531374e86"
+  },
+  "topCategory": "напої",
+  "subCategory": "ігристе вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Ламбруско Бьянко",
+  "englishName": "Lambrusco Bianco",
+  "description": "-",
+  "price": 350,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:29:52.260Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:29:52.260Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f2415535113531374e8b"
+  },
+  "topCategory": "напої",
+  "subCategory": "ігристе вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Артемівське нап / сол",
+  "englishName": "Artemivske semi-sweet",
+  "description": "-",
+  "price": 320,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:30:09.063Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:30:09.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f2b55535113531374e90"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе біле вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "Совіньйон блан Мальборо Сан, 100мл",
+  "englishName": "Sauvignon Blanc Marlborough Sun",
+  "description": "Сухе, Нова Зеландія",
+  "price": 110,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:32:05.225Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:32:05.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f45b5535113531374e99"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе біле вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Совіньйон блан Мальборо Сан, 750мл",
+  "englishName": "Sauvignon Blanc Marlborough Sun",
+  "description": "Сухе, Нова Зеландія",
+  "price": 800,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:39:07.518Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:39:07.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f4755535113531374e9e"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе біле вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "Ґевюрцтрамінер, 100мл",
+  "englishName": "Gewurztraminer",
+  "description": "Напівсолодке, Германія",
+  "price": 65,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:39:33.267Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:52:01.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f7505535113531374ea3"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе біле вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Ґевюрцтрамінер, 750мл",
+  "englishName": "Gewurztraminer",
+  "description": "Напівсолодке, Германія",
+  "price": 480,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:51:44.833Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:51:44.833Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f78a5535113531374eac"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе біле вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "Піно гріджіо Делль Венеціа, 100мл",
+  "englishName": "Pinot Grigio del Veneto",
+  "description": "Сухе, Італія",
+  "price": 65,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:52:42.886Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:52:42.886Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f79f5535113531374eb1"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе біле вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Піно гріджіо Делль Венеціа, 750мл",
+  "englishName": "Pinot Grigio del Veneto",
+  "description": "Сухе, Італія",
+  "price": 480,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:53:03.897Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:53:03.897Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f7cd5535113531374eb6"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе біле вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "Сан Валентин, 100мл",
+  "englishName": "San Valentin",
+  "description": "Напівсухе, Іспанія",
+  "price": 75,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:53:49.124Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:53:49.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f7e25535113531374ebb"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе біле вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Сан Валентин, 750мл",
+  "englishName": "San Valentin",
+  "description": "Напівсухе, Іспанія",
+  "price": 550,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:54:10.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:54:10.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f8005535113531374ec0"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе біле вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "Барон д’Ариньяк, 100мл",
+  "englishName": "Baron d’Arignac",
+  "description": "Напівсолодке, Франція",
+  "price": 50,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:54:40.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:54:40.180Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f8105535113531374ec5"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе біле вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Барон д’Ариньяк, 750мл",
+  "englishName": "Baron d’Arignac",
+  "description": "Напівсолодке, Франція",
+  "price": 350,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:54:56.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:54:56.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f8615535113531374eca"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "Мерло Барон д’Ариньяк, 100мл",
+  "englishName": "Merlot baron d’Arignac",
+  "description": "напівсолодке, Франція",
+  "price": 65,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:56:17.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:56:17.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f8775535113531374ecf"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Мерло Барон д’Ариньяк, 750мл",
+  "englishName": "Merlot baron d’Arignac",
+  "description": "напівсолодке, Франція",
+  "price": 475,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:56:39.245Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:56:39.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f8945535113531374ed4"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "Каппо Шираз, 100мл",
+  "englishName": "Cappo Shiraz",
+  "description": "Сухе, Іспанія",
+  "price": 55,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:57:08.524Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:57:08.524Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f8a85535113531374ed9"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Каппо Шираз, 750мл",
+  "englishName": "Cappo Shiraz",
+  "description": "Сухе, Іспанія",
+  "price": 400,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:57:28.225Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:57:28.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f8c15535113531374ede"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "Шато Жілет, 100мл",
+  "englishName": "Château Gillet",
+  "description": "Сухе, Франція",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:57:53.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:57:53.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f8d45535113531374ee3"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Шато Жілет, 750мл",
+  "englishName": "Château Gillet",
+  "description": "Сухе, Франція",
+  "price": 600,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:58:12.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:58:12.424Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f8eb5535113531374ee8"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "К’янті, 100мл",
+  "englishName": "Chianti Gentilesco Bonacchi",
+  "description": "Сухе, Італія",
+  "price": 70,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:58:35.785Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:58:35.785Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f8ff5535113531374eed"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "К’янті, 750мл",
+  "englishName": "Chianti Gentilesco Bonacchi",
+  "description": "Сухе, Італія",
+  "price": 500,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:58:55.778Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:58:55.778Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f9185535113531374ef2"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "Мальбек Калія, 100мл",
+  "englishName": "Malbec Callia",
+  "description": "Сухе, Аргентина",
+  "price": 75,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:59:20.970Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:59:20.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f9305535113531374ef7"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Мальбек Калія, 750мл",
+  "englishName": "Malbec Callia",
+  "description": "Сухе, Аргентина",
+  "price": 550,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T11:59:44.539Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T11:59:44.539Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f9475535113531374efc"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "Каберне Совіньйон, 100мл",
+  "englishName": "Cabernet Sauvignon",
+  "description": "Напівсухе, Франція",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:00:07.809Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:00:07.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f9565535113531374f01"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе червоне вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Каберне Совіньйон, 750мл",
+  "englishName": "Cabernet Sauvignon",
+  "description": "Напівсухе, Франція",
+  "price": 600,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:00:22.856Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:00:22.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f98a5535113531374f06"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе рожеве вино",
+  "category": "вино",
+  "weight": "100",
+  "name": "Розе д’Анжу, 100мл",
+  "englishName": "Rose d’Anjou",
+  "description": "Напівсухе, Франція",
+  "price": 750,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:01:14.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:01:14.454Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9f9a05535113531374f0b"
+  },
+  "topCategory": "напої",
+  "subCategory": "тихе рожеве вино",
+  "category": "вино",
+  "weight": "750",
+  "name": "Розе д’Анжу, 750мл",
+  "englishName": "Rose d’Anjou",
+  "description": "Напівсухе, Франція",
+  "price": 550,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:01:36.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:01:36.464Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fa275535113531374f10"
+  },
+  "topCategory": "напої",
+  "subCategory": "портвейн",
+  "category": "портвейн",
+  "weight": "50",
+  "name": "Сандеман Порто Рубі",
+  "englishName": "Sandeman Porto Ruby",
+  "description": "-",
+  "price": 60,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:03:51.587Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:03:51.587Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fa625535113531374f15"
+  },
+  "topCategory": "напої",
+  "subCategory": "шот",
+  "category": "шот",
+  "weight": "75",
+  "name": "Зелений мексиканець",
+  "englishName": "Green mexican",
+  "description": "Текіла, Де Кайпер, фреш лайму",
+  "price": 150,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:04:50.434Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:04:50.434Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fa735535113531374f1a"
+  },
+  "topCategory": "напої",
+  "subCategory": "шот",
+  "category": "шот",
+  "weight": "65",
+  "name": "Хіросіма",
+  "englishName": "Hiroshima",
+  "description": "Самбука, бейліс, абсент, гренадін",
+  "price": 150,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:05:07.480Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:05:07.480Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fa815535113531374f1f"
+  },
+  "topCategory": "напої",
+  "subCategory": "шот",
+  "category": "шот",
+  "weight": "60",
+  "name": "Б-52",
+  "englishName": "B-52",
+  "description": "Калуа, бейліс, куантро",
+  "price": 150,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:05:21.652Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:05:21.652Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fab35535113531374f24"
+  },
+  "topCategory": "напої",
+  "subCategory": "напої",
+  "category": "напої",
+  "weight": "250",
+  "name": "Сік в асортименті",
+  "englishName": "Juice",
+  "description": "-",
+  "price": 40,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:06:11.526Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:06:11.526Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fac65535113531374f29"
+  },
+  "topCategory": "напої",
+  "subCategory": "напої",
+  "category": "напої",
+  "weight": "500",
+  "name": "Вода Боржомі",
+  "englishName": "Borjomi water",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:06:30.236Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:06:30.236Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fad95535113531374f2e"
+  },
+  "topCategory": "напої",
+  "subCategory": "напої",
+  "category": "напої",
+  "weight": "500",
+  "name": "Моршинська",
+  "englishName": "Morshinska",
+  "description": "-",
+  "price": 45,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:06:49.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:06:49.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9faed5535113531374f33"
+  },
+  "topCategory": "напої",
+  "subCategory": "напої",
+  "category": "напої",
+  "weight": "500",
+  "name": "Спрайт / Кока-кола",
+  "englishName": "Sprite / Coca-cola",
+  "description": "-",
+  "price": 50,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:07:09.296Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:07:09.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fafd5535113531374f38"
+  },
+  "topCategory": "напої",
+  "subCategory": "напої",
+  "category": "напої",
+  "weight": "250",
+  "name": "Швепс",
+  "englishName": "Schweppes",
+  "description": "-",
+  "price": 45,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:07:25.834Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:07:25.834Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fb0e5535113531374f3d"
+  },
+  "topCategory": "напої",
+  "subCategory": "напої",
+  "category": "напої",
+  "weight": "250",
+  "name": "Узвар",
+  "englishName": "Compote",
+  "description": "-",
+  "price": 35,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:07:42.519Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:07:42.519Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fb1a5535113531374f42"
+  },
+  "topCategory": "напої",
+  "subCategory": "напої",
+  "category": "напої",
+  "weight": "250",
+  "name": "Морс",
+  "englishName": "Fruit Drink",
+  "description": "-",
+  "price": 35,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:07:54.760Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:07:54.760Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fb4a5535113531374f47"
+  },
+  "topCategory": "напої",
+  "subCategory": "молочні коктейлі",
+  "category": "молочні коктейлі",
+  "weight": "400",
+  "name": "Орео",
+  "englishName": "Oreo milkshake",
+  "description": "-",
+  "price": 120,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:08:42.382Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:08:42.382Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fb5e5535113531374f4c"
+  },
+  "topCategory": "напої",
+  "subCategory": "молочні коктейлі",
+  "category": "молочні коктейлі",
+  "weight": "400",
+  "name": "Полуничний",
+  "englishName": "Strawberry milkshake",
+  "description": "-",
+  "price": 120,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:09:02.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:09:02.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fb6c5535113531374f51"
+  },
+  "topCategory": "напої",
+  "subCategory": "молочні коктейлі",
+  "category": "молочні коктейлі",
+  "weight": "400",
+  "name": "Банановий",
+  "englishName": "Banana milkshake",
+  "description": "-",
+  "price": 120,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:09:16.218Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:09:16.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fb805535113531374f56"
+  },
+  "topCategory": "напої",
+  "subCategory": "молочні коктейлі",
+  "category": "молочні коктейлі",
+  "weight": "400",
+  "name": "Чорна смородина",
+  "englishName": "Black currant milkshake",
+  "description": "-",
+  "price": 135,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:09:36.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:09:36.600Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fb905535113531374f5b"
+  },
+  "topCategory": "напої",
+  "subCategory": "молочні коктейлі",
+  "category": "молочні коктейлі",
+  "weight": "400",
+  "name": "Мілк шейк",
+  "englishName": "Milk shake",
+  "description": "-",
+  "price": 135,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:09:52.076Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:09:52.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fbbe5535113531374f60"
+  },
+  "topCategory": "напої",
+  "subCategory": "фреші",
+  "category": "фреші",
+  "weight": "200",
+  "name": "Апельсиновий",
+  "englishName": "Orange",
+  "description": "-",
+  "price": 110,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:10:38.299Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:10:38.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fbce5535113531374f65"
+  },
+  "topCategory": "напої",
+  "subCategory": "фреші",
+  "category": "фреші",
+  "weight": "200",
+  "name": "Грейпфрутовий",
+  "englishName": "Grapefruit",
+  "description": "-",
+  "price": 120,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:10:54.389Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:10:54.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fbe05535113531374f6a"
+  },
+  "topCategory": "напої",
+  "subCategory": "фреші",
+  "category": "фреші",
+  "weight": "200",
+  "name": "Яблуневий",
+  "englishName": "Apple",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:11:12.625Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:11:12.625Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fbf35535113531374f6f"
+  },
+  "topCategory": "напої",
+  "subCategory": "фреші",
+  "category": "фреші",
+  "weight": "200",
+  "name": "Яблунево-грейпфрутовий",
+  "englishName": "Apple & grapefruit",
+  "description": "-",
+  "price": 110,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:11:31.008Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:11:31.008Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fc2b5535113531374f74"
+  },
+  "topCategory": "напої",
+  "subCategory": "лимонад",
+  "category": "лимонад",
+  "weight": "400",
+  "name": "Вітамінний заряд",
+  "englishName": "vitamin charge",
+  "description": "-",
+  "price": 110,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:12:27.312Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:12:27.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fc3b5535113531374f79"
+  },
+  "topCategory": "напої",
+  "subCategory": "лимонад",
+  "category": "лимонад",
+  "weight": "400",
+  "name": "Крем-сода",
+  "englishName": "Cream soda",
+  "description": "-",
+  "price": 105,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:12:43.381Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:12:43.381Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fce55535113531374f7e"
+  },
+  "topCategory": "напої",
+  "subCategory": "лимонад",
+  "category": "лимонад",
+  "weight": "400",
+  "name": "мохіто б/а",
+  "englishName": "Mojito without alcohol",
+  "description": "-",
+  "price": 110,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:15:33.102Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:15:33.102Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fcf65535113531374f83"
+  },
+  "topCategory": "напої",
+  "subCategory": "лимонад",
+  "category": "лимонад",
+  "weight": "400",
+  "name": "Мохіто б/а полуничний",
+  "englishName": "Mojito strawberry without alcohol",
+  "description": "-",
+  "price": 120,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:15:50.938Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:15:50.938Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fd065535113531374f88"
+  },
+  "topCategory": "напої",
+  "subCategory": "лимонад",
+  "category": "лимонад",
+  "weight": "400",
+  "name": "Блю скай",
+  "englishName": "-",
+  "description": "-",
+  "price": 130,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:16:06.576Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:16:06.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fd185535113531374f8d"
+  },
+  "topCategory": "напої",
+  "subCategory": "лимонад",
+  "category": "лимонад",
+  "weight": "400",
+  "name": "Лимонад огірково-грейпфрутовий",
+  "englishName": "Cucumber - grapefruit lemonade",
+  "description": "-",
+  "price": 140,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:16:24.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:16:24.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fd2c5535113531374f92"
+  },
+  "topCategory": "напої",
+  "subCategory": "лимонад",
+  "category": "лимонад",
+  "weight": "400",
+  "name": "Лимонад малиновий",
+  "englishName": "Raspberry lemonade",
+  "description": "-",
+  "price": 130,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:16:44.941Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:16:44.941Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fd4a5535113531374f97"
+  },
+  "topCategory": "напої",
+  "subCategory": "лимонад",
+  "category": "лимонад",
+  "weight": "400",
+  "name": "Лимонад полуничний",
+  "englishName": "Strawberry lemonade",
+  "description": "-",
+  "price": 130,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:17:14.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:17:14.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fd605535113531374f9c"
+  },
+  "topCategory": "напої",
+  "subCategory": "лимонад",
+  "category": "лимонад",
+  "weight": "400",
+  "name": "Пряне яблуко",
+  "englishName": "Spicy apple lemonade",
+  "description": "-",
+  "price": 120,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:17:36.616Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:17:36.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fe695535113531374fa3"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "25",
+  "name": "Еспресо",
+  "englishName": "Espresso Coffee",
+  "description": "-",
+  "price": 50,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:22:01.476Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:22:01.476Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fe775535113531374fa8"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "55",
+  "name": "Допіо",
+  "englishName": "Doppio",
+  "description": "-",
+  "price": 70,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:22:15.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:22:15.638Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fe855535113531374fad"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "90",
+  "name": "Американо",
+  "englishName": "Americano",
+  "description": "-",
+  "price": 50,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:22:29.748Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:22:29.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fe975535113531374fb2"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "150",
+  "name": "Капучино з кедровим горіхом",
+  "englishName": "Cedar nut cappuccino",
+  "description": "-",
+  "price": 130,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:22:47.437Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:22:47.437Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9feab5535113531374fb7"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "150",
+  "name": "Капучино з мигдальною стружкою",
+  "englishName": "Almond cappuccino",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:23:07.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:23:07.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9febb5535113531374fbc"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "150",
+  "name": "Капучино з кокосовою стружкою",
+  "englishName": "Coconut cappuccino",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:23:23.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:23:23.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fecc5535113531374fc1"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "200",
+  "name": "Раф з карамеллю",
+  "englishName": "Raf Coffee with caramel",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:23:40.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:23:40.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fedb5535113531374fc6"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "150",
+  "name": "Капучино",
+  "englishName": "Cappuccino",
+  "description": "-",
+  "price": 70,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:23:55.871Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:23:55.871Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9feec5535113531374fcb"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "200",
+  "name": "Латте",
+  "englishName": "Latte",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:24:12.008Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:24:12.008Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fefe5535113531374fd0"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "200",
+  "name": "Флет уайт",
+  "englishName": "Flat White",
+  "description": "-",
+  "price": 85,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:24:30.304Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:24:30.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ff185535113531374fd5"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "200",
+  "name": "Раф",
+  "englishName": "Raf Coffee",
+  "description": "-",
+  "price": 85,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:24:56.336Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:24:56.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ff315535113531374fda"
+  },
+  "topCategory": "напої",
+  "subCategory": "кава та какао",
+  "category": "кава та какао",
+  "weight": "200",
+  "name": "Какао",
+  "englishName": "Cocoa",
+  "description": "-",
+  "price": 80,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:25:21.440Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:25:21.440Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ff855535113531374fdf"
+  },
+  "topCategory": "напої",
+  "subCategory": "чай",
+  "category": "чай",
+  "weight": "600",
+  "name": "Чай зелений (зелений равлик)",
+  "englishName": "Green tea",
+  "description": "-",
+  "price": 70,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:26:45.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:26:45.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ffa05535113531374fe4"
+  },
+  "topCategory": "напої",
+  "subCategory": "чай",
+  "category": "чай",
+  "weight": "600",
+  "name": "Чай зелений з жасміном",
+  "englishName": "Jasmine green",
+  "description": "-",
+  "price": 70,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:27:12.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:27:12.982Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ffac5535113531374fe9"
+  },
+  "topCategory": "напої",
+  "subCategory": "чай",
+  "category": "чай",
+  "weight": "600",
+  "name": "Чай чорний",
+  "englishName": "Black tea",
+  "description": "-",
+  "price": 70,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:27:24.502Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:27:24.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ffbb5535113531374fee"
+  },
+  "topCategory": "напої",
+  "subCategory": "чай",
+  "category": "чай",
+  "weight": "600",
+  "name": "Чай чорний з бергамотом",
+  "englishName": "Black with bergamot",
+  "description": "-",
+  "price": 70,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:27:39.787Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:27:39.787Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ffc95535113531374ff3"
+  },
+  "topCategory": "напої",
+  "subCategory": "чай",
+  "category": "чай",
+  "weight": "600",
+  "name": "Чай трав'яний",
+  "englishName": "Mountain herbal tea",
+  "description": "-",
+  "price": 70,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:27:53.024Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:27:53.024Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9ffe25535113531374ff8"
+  },
+  "topCategory": "напої",
+  "subCategory": "чай фірмовий",
+  "category": "чай",
+  "weight": "600",
+  "name": "Обліпиховий",
+  "englishName": "Sea buckthorn tea",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:28:18.312Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:28:18.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fff05535113531374ffd"
+  },
+  "topCategory": "напої",
+  "subCategory": "чай фірмовий",
+  "category": "чай",
+  "weight": "600",
+  "name": "Ягідний",
+  "englishName": "Berry tea",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:28:32.498Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:28:32.498Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9fffc5535113531375002"
+  },
+  "topCategory": "напої",
+  "subCategory": "чай фірмовий",
+  "category": "чай",
+  "weight": "600",
+  "name": "Імбирний",
+  "englishName": "Ginger tea",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:28:44.161Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:28:44.161Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba001f5535113531375009"
+  },
+  "topCategory": "напої",
+  "subCategory": "чай фірмовий",
+  "category": "чай",
+  "weight": "600",
+  "name": "чай Вітамінний заряд",
+  "englishName": "Vitamin charge",
+  "description": "-",
+  "price": 100,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:29:19.283Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:29:19.283Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba0045553511353137500e"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "250",
+  "name": "Блакитна лагуна",
+  "englishName": "Blue Lagoon",
+  "description": "Горілка, спрайт, лікер, лайм",
+  "price": 160,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:29:57.776Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:29:57.776Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba00595535113531375013"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "250",
+  "name": "Секс на пляжі",
+  "englishName": "Sex on the beach",
+  "description": "Горілка, сік, тріпл сек, апельсин",
+  "price": 160,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:30:17.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:30:17.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba006c5535113531375018"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "230",
+  "name": "Грейпфрут Джин Фіз",
+  "englishName": "Grapefruit gin Fizz",
+  "description": "Джин, сік, сироп",
+  "price": 155,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:30:36.781Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:30:36.781Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba007e553511353137501d"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "200",
+  "name": "Мохіто",
+  "englishName": "Mojito",
+  "description": "Ром, м’ята, спрайт, лайм",
+  "price": 150,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:30:54.369Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:30:54.369Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba00935535113531375022"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "200",
+  "name": "Мохіто полуничний",
+  "englishName": "Mojito strawberry",
+  "description": "Ром, м’ята, содова, полуниця, сироп",
+  "price": 155,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:31:15.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:31:15.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba00a95535113531375027"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "225",
+  "name": "Піна Колада",
+  "englishName": "Pina Colada",
+  "description": "Ром, лікер кокос, сік, вершки",
+  "price": 160,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:31:37.504Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:31:37.504Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba00bc553511353137502c"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "240",
+  "name": "Тайт Пусс",
+  "englishName": "Tight pussy",
+  "description": "Ром, сік, кориця, апельсин",
+  "price": 170,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:31:56.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:31:56.044Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba00cd5535113531375031"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "200",
+  "name": "Кловер клаб",
+  "englishName": "Clover club",
+  "description": "Джин, сік, сироп, яєчний білок",
+  "price": 150,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:32:13.439Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:32:13.439Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba00df5535113531375036"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "240",
+  "name": "Пешен Апероль",
+  "englishName": "Passion Aperol",
+  "description": "Апероль, сік, сироп, яєчний білок",
+  "price": 185,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:32:31.089Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:32:31.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba00f2553511353137503b"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "200",
+  "name": "Апероль спрітц",
+  "englishName": "Aperol Spritz",
+  "description": "Апероль, шампанське брют, апельсин",
+  "price": 195,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:32:50.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:32:50.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba01085535113531375040"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "135",
+  "name": "Бульвардьє",
+  "englishName": "Boulevardier",
+  "description": "Віскі, кампарі, мартіні, ангостура",
+  "price": 170,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:33:12.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:33:12.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba011c5535113531375045"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "300",
+  "name": "Лонг Айленд",
+  "englishName": "Long Island",
+  "description": "Горілка, текіла, ром, куантро, джин, кола",
+  "price": 260,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:33:32.236Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:33:32.236Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba012e553511353137504a"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "225",
+  "name": "Текіла Санрайз",
+  "englishName": "Tequila Sunrise",
+  "description": "Текіла, сік, сироп, гренадін",
+  "price": 170,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:33:50.575Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:33:50.575Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba0143553511353137504f"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "200",
+  "name": "Куба Лібре",
+  "englishName": "Cuba libre",
+  "description": "Ром, кока-кола, лайм",
+  "price": 155,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:34:11.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:34:11.328Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba01565535113531375054"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "200",
+  "name": "Текіла Бум",
+  "englishName": "Tequila Boom",
+  "description": "Текіла, спрайт",
+  "price": 170,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:34:30.958Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:34:30.958Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ba01675535113531375059"
+  },
+  "topCategory": "напої",
+  "subCategory": "коктейлі",
+  "category": "коктейлі",
+  "weight": "225",
+  "name": "Брейв Булл",
+  "englishName": "Brave Bull",
+  "description": "Текіла, кока-кола, лікер калуа, лайм",
+  "price": 200,
+  "action": false,
+  "new": false,
+  "discount": false,
+  "archive": false,
+  "displayInDeliveryMenu": false,
+  "hideInMenu": false,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-08-12T12:34:47.777Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:34:47.777Z"
+  }
+}]

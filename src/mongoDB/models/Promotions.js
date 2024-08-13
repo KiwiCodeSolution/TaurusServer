@@ -11,7 +11,7 @@ const PromotionSchema = new Schema(
 		image: { type: String }, // Изображение акции
 		isFeatured: { type: Boolean, default: false }, // Является ли акция особенной
 		defaultImage: { type: String }, // Изображение по умолчанию
-		available: { type: Boolean }, // Возможность скрыть акцию
+		available: { type: Boolean, default: true }, // Возможность скрыть акцию
 		archive: { type: Boolean }, // Архивировать акцию
 	},
 	{ timestamps: true }
