@@ -17,6 +17,7 @@ async function importProducts() {
     for (let product of products) {
       const newProduct = {
         topCategory: product.topCategory,
+        subCategory: product.subCategory,
         category: product.category,
         weight: product.weight,
         name: product.name,
